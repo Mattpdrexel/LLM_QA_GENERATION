@@ -1,0 +1,1484 @@
+  
+
+L.P. NO.:	NOS05CW0000-16
+PREVIOUS L.P. NO.:	NOS05CW0000-15
+	
+HOPE CREEK / SALEM
+LESSON PLAN
+PROGRAM TITLE:	SALEM LICENSED OPERATOR, NON-LICENSED OPERATOR, AND SHIFT TECHNICAL ADVISOR
+COURSE SECTION/MODULE:	PLANT TECHNOLOGY/PLANT SYSTEMS
+TOPIC / TITLE:	CIRCULATING WATER SYSTEM
+LESSON DURATION:	4 HOURS
+PREREQUISITES:	None
+JTA NO. OR
+QUALIFICATION
+STATEMENT NO.:	REFER TO TLOs				
+PREPARED BY:	Rick Agnew	DATE:	04/11/19
+
+Review and Approval Signatures
+
+Qualified Nuclear Engineer
+Review (If applicable):	N/A	
+
+EMP #	
+	N/A	
+
+DATE:   	
+    
+    N/A
+
+Training Supervision	
+Review:		
+
+EMP #		
+
+DATE:	
+
+Program Owner Approval:	N/A	
+EMP #	
+    N/A	
+DATE:	
+    N/A
+
+This lesson plan has been reviewed and satisfies management expectations for inclusion of OE, HPI, error-reduction techniques and safety standards.  Specific applications and/or opportunities for reinforcement of management expectations are noted in the lesson plan text, key aide section(s) or Attachment(s) where applicable.
+ 
+
+
+Applicable
+Section	
+Material Changed
+	Justification  (i.e. Procedure Rev, setpoint change, notification# or Order/Op.#)
+Objectives	Revised terminal learning objectives	80121722 – 200
+Introduction	Added Instructor Note: While conducting continuing training look for opportunities to reinforce one or more of the Leadership and Team Effectiveness Attributes	TQ-AA-210-3101
+Introduction	Added discussion on Leadership and Team Effectiveness Attributes	TQ-AA-210-3101
+Procedure Flow Path and Basis	Added a discussion on Advancing Proficiency	TQ-AA-210-3101
+Plant and Industry Events	Operations Crew Learning for Calculations of Trash-Rack Waterfall 	TQ-AA-210-3101
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+ 
+
+DRAWINGS
+DRAWING	SHEET NO.	TITLE
+231064	Sheet 1	NO. 1&2 UNITS-CIRCULATING WATER INTAKE BY-PASS VALVES 12CW9 & 12CW109
+231067	Sheet 1	NO. 1&2 UNITS-CIRCULATING WATER NO.12A & 12B CIRCULATOR CONDENSER OUTLET VA
+231072	Sheet 1	NO. 1&2 UNITS-CIRCULATING WATER NO. 12B CIRCULATOR VACUUM BKR & COND. VALVES
+231077	Sheet 1	NO. 1&2 UNITS-CIRCULATING WATER NO. 12A CIRCULATOR
+231080	Sheet 1	NO. 1&2 UNITS-CIRCULATING WATER NO. 12B CIRCULATOR
+203810 	Sheet 2	NO. 21A CIRCULATOR SCHEMATIC
+205209 	Sheet 5	NO. 1 & 2 UNITS CIRCULATING WATER SAMPLING
+205254 		TURBINE BLDG CIRCULATING WATER PIPING
+205308 	Sheet 1	NO. 2 UNIT CONDENSER AIR REMOVAL AND PRIMING
+205309 	Sheets 1-4	NO. 2 UNIT CIRCULATING WATER
+205314 		CIRCULATING WATER INTAKE STRUCTURE HEATING WATER
+205778 		YARD-CIRCULATING WATER OUTLET PIPING
+206739 		YARD-TGA-CIRCULATING WATER INLET PIPING
+206740 		YARD CIRCULATING WATER INLET PIPING
+207945 		CIRC WATER INTAKE 230V CONTROL CENTER SECT. 1
+207946 		CIRC WATER INTAKE 230V CONTROL CENTER SECT. 2
+208997 		CIRCULATING WATER INTAKE ARRANGEMENT
+210317 		CIRCULATING WATER CONDENSER INLET CONNECTIONS
+210460 		CIRC WATER INTAKE STRUCTURE PLAN AT EL. 80’ & EL. 100’
+211697 		SCREEN WASH & BEARING LUBE PUMP DISCHARGE HEADER PRESSURE PANEL 371
+211781 		CIRCULATING WATER SCREEN WASH CONTROLS.
+220983 		SCREEN WASH PUMPS STRAINER SCHEMATIC
+226164 		VACUUM BREAKER CONTROL PANEL 672
+226168 		SCREEN WASH CONTROLS PANEL 360-2
+231167 	Sheet 2	SCREEN WASH LEVEL CONTROL PANELS 670-2A, -2B, & -2C
+232304 		CIRC WATER PUMPS, BEARING LUBE PUMPS, & SCREEN WASH PUMPS INSTRUMENT SCHEMATIC
+240651 		SCREEN WASH CONTROL INSTRUMENT SCHEMATIC
+240685 		CIRCULATING WATER CONDENSER AREA INSTRUMENT SCHEMATIC
+240743 		FISH COUNTING & TRASH REMOVAL BUILDING INSTRUMENT SCHEMATIC
+241026 		TRAVELING SCREENS DIFFERENTIAL PRESS. IND. & MISC. CONTROLS SCHEMATIC
+241027 		NO. 21A TRAVELING SCREEN SCHEMATIC
+241114 		CIRC WATER INTAKE DISTR. PANEL DP2
+241122 		CIRC WATER INTAKE STRUCTURE & FISH COUNTING & TRASH REMOVAL BLDG HEATING & VENTILATION
+241131 		SCREEN WASH PUMPS AUX. CONTROL MODE SCHEMATIC
+241132 		NO. 21 SCREEN WASH PUMP SCHEMATIC
+241203 		CIRC WATER PUMP AND TRAVELING SCREEN ENCLOSURE FLOOR & ROOF PLANS
+241334 		CIR WATER INTAKE INSTRUMENT PANELS 741-1A, -1B, & -1C
+241822 		NO. 21, 22, 23, & 24 HEATING FANS SCHEMATIC
+242978 		BEARING LUBE PUMPS SCHEMATIC
+247786 		CIRCULATING WATER INTAKE STRUCTURE INSTRUMENT SCHEMATIC
+247821 		CIRCULATING WATER INTAKE HEATING BOILER
+248025 		HEATING WATER CIRCULATING PUMP SCHEMATIC
+248029 		CIRC WATER INTAKE STRUCTURE PANEL 788
+600162 		THERMAL MONITORING INTAKE & DISCHARGE PANEL 922
+600978 		TRAVELING SCREEN PANELS 945-2A THROUGH -2F
+600979 		BEARING LUBE PUMP STRAINER PANELS 946-2A & -2B
+601015 		SCREEN WASH PUMP STRAINER PANELS 947-2A THROUGH -2D
+601399 		2CW-460V BUS ONE LINE DIAGRAM
+601856 		BEARING LUBE PUMP STRAINER SCHEMATIC
+602940 		4160V CIRCULATING WATER BUSES ONE LINE DIAGRAM
+604512 		BEARING LUBE WATER LOCAL ANNUNCIATOR 1246-2
+
+ 
+
+TECHNICAL SPECIFICATIONS
+SECTION	TITLE
+Appendix B	Environmental Protection Plan (Non-Radiological)
+
+UFSAR SECTIONS
+SECTION	TITLE
+10.4.5	Circulating Water System
+
+TRAINING COMMITMENTS
+NUMBER	DESCRIPTION
+PTS 8281	Circulating Water System Screen Wash and Bearing Lube Modifications
+80053168	Revise lesson plan training objectives as necessary to include higher order objectives
+
+OTHER DOCUMENTS
+DOCUMENT NO.	TITLE
+PSBP 109519	84” HIFLO Circulating Pump
+PSBP 124976	Inlet Water box Detail
+PSBP 125231	Outlet Water box Detail
+PSBP 178857	Cleaver-Brooks Model CB40 Flame Safeguard Control
+PSBP 304511	Cleaver-Brooks Packaged Boiler Operation Manual
+PSBP 317277 shts 1-11	Traversing Brackett Bosker
+PSBP 317302	Installation, Operating, and Maintenance Manual for Brackett Bosker
+PSBP 317553	Operating Manual, Screen Wash Pumps
+DCP 1EA-1121	Circulating Water Intake Structure Dampers
+DCP 2EC-3361	Circulating Water MCC I-2125 Circuit Bkr, Transformer & Feeder Cable Replacement
+DCP 1EC-3341	Circulating Water Circuitry Upgrade
+DCP 1EC-3342	Circulating Water Bearing Lube and Screen Wash Setpoints
+DCP 2EC-3303	Circulating Water Bearing Lube and Screen Wash Setpoints
+ECA 2E-0046	Traveling Screen Modifications
+Field Directive
+ S-C-T850-NFD-075	Chlorination Requirements of Salem Station’s Circulating and Service Water Systems
+SOER 82-15	Freezing of Safety Related Equipment
+SOER 85-05	Internal Flooding of Power Plant Buildings
+SER 67-83	Plant Trips and Loss of Cooling Water Due to Fouling of Traveling Screens
+SER 15-84	Low Water Level in the Intake Bay Due to Ice
+LER 89-13	Manual Reactor Trip – Loss of 5 Circ Water System Circ Pumps Due to External Causes (Unit 2)
+DCP 2EC-3465	Circulating Water System Controls Modification
+LER 93-11	Reactor Trip From 85% Power – 4 Circulating Water System Circ Pumps Tripped Due to Debris (Unit 1)
+DCP 80067685 7 80067687	Unit 1 & Unit 2 Circ Water Switchgear Electrical Reliability Improvement Modifications.  
+DCP 80084307	13A & 13B CWTS Front Spray Upgrades
+DCP 80088436	13A CW Traveling Screen Replacement (Geiger MultiDisc)
+DCP 80104114	Detritus Discharge Pipe
+DCP 80104115	Supplementary Screen Wash Pumps
+DCP 80104116	Screen Wash DP Transmitters
+
+TRAINING MATERIAL REQUIRED:
+1.	This lesson plan
+2.	Copies of the procedures listed in the Reference Materials section
+3.	Drawings 205309 , Sh. 1, 2, 3, 4 NO. 2 UNIT CIRCULATING WATER
+TRANSPARENCIES
+TP NO.	DMS OR AV NO.	TITLE
+TP-1	AV4228	Circulating Water Building Complex
+TP-2	AV2739A1	Circulating Water System One-Line Diagram
+TP-3	AV2739B	Circulating Water Intake Cross Section
+TP-4	PSPB 317547, sh 2	Trash Rack Elevation
+TP-5	317277, Sht 3, Zoom	Traveling Trash Rake Cross Section and Elevation
+TP-6	317277, Sht, 2 Zoom	Traveling Trash Rake General Arrangement
+TP-7	AV1852K	Traveling Water Screen Cross Section
+TP-7A	None	13A CW Traveling Screen Drive Unit - Photo
+TP-7B	None	13A CW Traveling Screen Unit (Geiger MDS) - Photo
+TP-8	AV4149A	Screen Wash and Brg Lube Pumps Strnr Cutaway and Arrgt
+TP-9	None	Traveling Screen Spray Header Arrangement
+TP-10	SC.MD-PM.CW-0009	Traveling Screen Spray Header Arrangement
+TP-10A	None 	Traveling Screen Spray Header Arrangement, with 13B Front Spray shown.
+TP-11	205309, Sht 1, Zoom	Screen Wash Header Arrangement
+TP-12	PSPB 109519 Zoom	Circulating Water Pump Elevation
+TP-14	M10-FRS-III-221	Unit 1, (Unit 2) Prefire Plan Turbine Generating Area El. 100’,
+Unit 2 Turbine Building, Elevation 100', Arrangement
+TP-15	AV3957C	Circulating Water Intake Structure Ventilation
+TP-16	AV3957B	Circulating Water Intake Structure Ventilation
+TP-17	240743 Zoom	Fish Counting and Trash Removal Building Heating and Ventilation Instrument Diagram
+TP-18	PSPB 304511, pg 1-4
+Zoom	Intake Structure Hot Water Boiler General Arrangement
+TP-19	PSPB 304511, 
+pg 1-15	Intake Structure Hot Water Boiler Oil and Air Schematic Diagram
+TP-20	PSPB 304511,
+pg 1-14, Zoom	Intake Structure Hot Water Boiler Secondary Air Flow Diagram
+TP-21	AV4003	Intake Structure Hot Water Boiler Control Panel
+TP-22	AV3921	Traveling Trash Rake Control Station Arrangement
+TP-23	604511 Zoom	Local Annunciator 1246-2 Window Engraving
+TP-24	SB080	Circulating Water System Control Room Bezel
+TP-25	SB081	Circulating Water System Control Room Bezel
+TP-26	SB069	Screenwell dP Indicator Selector Switch
+TP-27	S2.OP-AR.ZZ-0010(Q)	Overhead Alarm Window K Engraving (Zoom Print)
+TP-28	AV3883D	4 KV Vital Buss One-Line
+TP-29	None	THREATENED AND ENDANGERED SEA TURTLE IDENTIFICATION
+TP-30	None	STURGEON AND TERRAPIN IDENTIFICATION
+TP-31	None	Traveling Screen radar differential level upgrade
+TP-32	None	U/1 Supplemental Pump Plan
+TP-33	None	U/2 Supplemental Pump Plan
+TP-34	None	Detritus Discharge Pipe
+TP-35	None	Fish House changes to support Detritus Discharge Pipe
+ 
+STUDENT HANDOUTS:
+1.	Hard or electronic copy of this lesson plan
+2.	Hard or electronic copies of transparencies (optional)
+3.	Procedures, procedure sections, and/or other documents as required.
+4.	Hard or electronic copy Drawings 205309 , Sh. 1, 2, 3, 4 NO. 2 UNIT CIRCULATING WATER
+5.	Hard or electronic copy of the Endangered/Threatened Species Monitoring attachment of SC.OP-DL.ZZ-0008(Q), CIRCULATING WATER / SERVICE WATER LOG
+SPECIAL CLASSROOM REQUIREMENTS:
+1.	Overhead projector and screen
+2.	Whiteboard and markers
+APPLICABLE HPI TOOLS/ERROR-REDUCTION TECHNIQUES:
+
+See Attachment 1
+
+APPLICABLE INDUSTRIAL, RADIOLOGICAL AND/OR NUCLEAR SAFETY PRECAUTIONS:
+
+Fall Protection:  (see current Industrial Safety Manual or current approved company safety rules)
+1.	Personnel required to wear fall protection equipment shall be trained in its use.
+2.	Excluding ladders, personnel erecting and dismantling scaffolds, and inspections, any employee working 6 feet or greater off the floor who is not protected by guardrails shall wear personal fall protection equipment.
+3.	Personnel climbing or performing inspections in the overhead 6 feet or greater off the floor shall maintain three-points of contact at all times.
+
+Working On or Over Water:  (see current Industrial Safety Manual or current approved company safety rules)
+1.	When protections against falling is not otherwise provided, employees working over water where the danger of drowning exists shall be provided with and wear a Coast Guard approved life jacket or work vest.
+2.	Personnel operating watercraft for the Company shall wear life jackets at all times.
+
+
+INTERNAL COMMITMENTS:
+
+
+EXTERNAL COMMITMENTS  
+TERMINAL LEARNING OBJECTIVES:
+After completing this lesson:
+At the completion of this training the student will have the requisite knowledge/abilities to perform all identified tasks contained within the CIRCULATING WATER SYSTEM for the position being trained. 
+a.	Unless otherwise stated in the condition of the objective, the objective will be:
+1).	“From memory” for initial training programs.
+2).	“Using controlled references” for continuing training programs. 
+b.	The Standard for objectives containing action verbs is “with 100% accuracy as described in controlled references unless specified in the individual objective”.
+c.	The Condition will be “Under All Plant Conditions” unless specifically stated in the objective.
+Evaluation: 
+Successful completion of this training requires receiving a passing grade (minimum score of 80%) on the written exam / quiz as selected by exam writer in accordance with the applicable program description.   These documents provide a systematic approach to selecting and developing test items to determine if a student has mastered the knowledge, skills and abilities covered in training.
+
+OPERATOR / STA ENABLING LEARNING OBJECTIVES:
+Unless otherwise stated, the objective applies to Licensed Operator, Non-licensed Operator and Shift Technical Advisors, the objective conditions are “from memory” and standards are “in accordance with this lesson plan and its supporting documents”..
+Objectives coded with NCT are to be covered when lesson is taught in Non-licensed Operator Continuing Training.
+Objectives coded with LOR are to be covered when lesson is taught in Licensed Operator Requalification Training.
+1.	NCT Describe the purpose of the Circulating Water System.
+2.	Describe the design bases of the Circulating Water System. (Licensed Operator & STA only)
+3.	NCT Draw a one-line diagram of the Circulating Water System which indicates the following:
+a.	Major Circulating Water System Components
+i)	Circulating Water Pumps
+ii)	Screen Wash Pumps and Screen Wash Pump Strainers
+iii)	Circulating Water Pump Bearing Lube Pumps and Bearing Lube Strainers
+iv)	Main Condensers
+b.	Major Circulating Water System Flowpaths
+i)	From the Delaware River through the Circulating Water System and return to the river
+4.	NCT Describe how the following components impact the Circulating Water  System during Normal and Abnormal conditions:
+a.	Intake Structure
+b.	Trash Bar Racks
+c.	Trash Rakes
+d.	Traveling Screens
+e.	Screen Wash Pumps
+f.	Screen Wash Pump Strainers
+g.	Circulating Water Pump Bearing Lube Pumps
+h.	Bearing Lube Pump Strainers
+i.	Circulating Water Pumps
+j.	Circulating Water Pump Bypass Valves
+k.	Circulating Water System Vacuum Breakers
+l.	Main Condenser (including discharge and differential temperature limits)
+m.	Circulating Water Condenser Outlet Valves
+n.	Intake Structure Heating and Ventilation System
+o.	Circulating Water Intake Structure Boiler
+p.	Supplemental Screen Wash Pumps
+5.	NCT State the power supply to the following Circulating Water System components:
+a.	Screen Wash Pumps
+b.	Circulating Water Pump Bearing Lube Pumps
+c.	Circulating Water Pumps
+6.	NCT Outline the interlocks associated with the following Circulating Water System components:
+a.	Circulating Water Pumps
+b.	Circulating Water Pump Bypass Valves
+c.	Circulating Water System Vacuum Breakers
+d.	Circulating Water Box Vacuum Priming Valves
+e.	Circulating Water Condenser Outlet Valves
+7.	NCT Identify and describe the local controls, indications, and alarms associated with the Circulating Water System, including: (Licensed Operator & Non-licensed Operator only)
+a.	The location of Circulating Water System local controls and indications.
+b.	The function of Circulating Water System local controls and indications. 
+c.	The plant and conditions or permissives required for Circulating Water System local controls to perform their intended function. 
+d.	The setpoints associated with the Circulating Water System local alarms. 
+8.	Identify and describe the Control Room controls, indications, and alarms associated with the Circulating Water System, including:
+a.	The Control Room location of Circulating Water System control bezels and indications.  (Licensed Operator & STA only)
+b.	The function of each Circulating Water System Control Room control and indication.  (Licensed Operator & STA only)
+c.	The effect each Circulating Water System control has upon Circulating Water System components and operation.  (Licensed Operator & STA only)
+d.	The plant conditions or permissives required for Circulating Water System Control Room controls to perform their intended function.  (Licensed Operator & STA only)
+e.	NCT The setpoints associated with the Circulating Water System control room alarms. 
+9.	NCT State the setpoints, coincidence, blocks and permissives for automatic actuations associated with the Circulating Water System. 
+10.	Given a situation dealing with Circulating Water System operability, examine the situation and apply the appropriate Technical Specification action. (License Operator and STA only)
+NCT State the Technical Specification associated with the component, parameters and operation of the Circulating Water System including the Limiting Condition for Operation(s) (LCO) and the applicability of the LCO(s)  (Non-licensed Operator)
+11.	Given a Technical Specification Limiting Condition for Operation (LCO), explain its basis. (License Operator and STA only)
+12.	NCT Summarize the differences between Unit 1 and Unit 2 Circulating Water System components, parameters, and operation. 
+13.	NCT Discuss the procedural requirements associated with the Circulating Water System, including an explanation of major precaution and limitations in the Circulating Water System procedures
+14.	NCT Given internal or external industry operating experience, review the OE and outline a course of action, which could prevent recurrence.
+15.	NCT Given plant conditions, relate the Circulating Water System with the following:  
+a.	Service Water System
+b.	Liquid Radwaste discharge
+c.	Main Condenser
+d.	Condenser Air Removal
+16.	Given a Circulating Water System, predict the effect of the Circulating Water System failure on the following:  (License Operator and STA only)
+a.	Service Water System
+b.	Main Condenser
+c.	Steam Dump System
+d.	Main Turbine/Generator
+e.	Plant Efficiency
+17.	Given any of the following and appropriate control room reference material, evaluate and determine the effect on the Circulating Water System:  (License Operator and STA only)
+a.	Valve failures
+b.	Pump failure
+c.	Motor failures
+d.	Malfunctioning sensors and detectors
+e.	Malfunctioning controllers and positioners
+f.	Breakers, relay and disconnect failure
+
+
+
+
+
+
+
+ 
+TABLE OF CONTENTS
+PAGE
+INTRODUCTION	2
+I.	INTRODUCTION	15
+II.	DESIGN BASES	16
+III.	DESCRIPTION	16
+IV.	INSTRUMENTATION AND CONTROL	46
+V.	SYSTEM INTERRELATIONSHIPS	61
+VI.	UNIT DIFFERENCES	62
+VII.	TECHNICAL SPECIFICATIONS	64
+VIII.	OPERATING PRACTICE/PLANT AND INDUSTRY EVENTS	66
+IX.	SUMMARY	79
+ATTACHMENT 1	80
+ 
+I.	INTRODUCTION
+A.	Lesson duration: 4 hours initial; 2 hours continuing
+B.	Review the Enabling Learning Objectives 
+
+Instructor Note: While conducting continuing training look for opportunities to reinforce one or more of the Leadership and Team Effectiveness Attributes
+C.	Leadership and Team Effectiveness Attributes (INPO 15-005) Discussion 
+Strong leaders and leadership teams are essential to sustaining high levels of plant safety and reliability. The presence of the following leadership and team effectiveness attributes is foundational for excellent performance.
+
+Leadership Effectiveness Attributes
+1.	Promoting a Clear Vision and Strategy to Achieve Excellence (LE 1.)
+2.	Implementing a Strong Talent Management and Leadership Development Strategy (LE 2.)
+3.	Fostering a Learning Organization - Continuous Improvement    (LE 3.)
+4.	Developing an Aligned, Engaged Workforce (LE 4.)
+5.	Inspiring, Motivating, and Communicating (LE 5.)
+6.	Building and Sustaining Trust with Employees and External Stakeholders (LE 6.)
+7.	Providing Effective Coaching and Feedback in an Environment of Healthy Accountability (LE 7.)
+8.	Making Effective Decisions and Appropriately Managing Risk     (LE 8.)
+9.	Achieving Sustainable Results (LE 9.)
+Team Effectiveness Attributes
+1.	The Team is Aligned around a Common Purpose, Vision and Goals (TE 1.)
+2.	Team Talent, Roles and Responsibilities are Clear (TE 2.)
+3.	The Team Creates a Positive Atmosphere of Mutual Trust and Respect (TE 3.)
+4.	Team Decision-Making and Conflict Resolution are Effective (TE4.) 
+5.	Members are committed to the Success of the Team (TE 5.)
+
+
+ELO 1
+D.	Circulating Water System
+1.	Absorbs the latent heat of condensation from the steam exhausting from the L.P. Turbines into the triple-shell, divided flow, single pass, surface condensers
+2.	Creates secondary cycle condensate which is used to maintain the levels in the Steam Generators during power operation
+E.	Intake Structure Heating and Ventilation System
+1.	Maintains the ambient temperature of the Circulating Water Intake Structure enclosure to provide an atmosphere which will preclude freezing Circulating Water System equipment during cold weather
+F.	Intake Structure Heating Boiler
+1.	Provides hot water to the Intake Structure Heating and Ventilation System to maintain the ambient temperature within the Intake Structure enclosure
+ELO 2
+II.	DESIGN BASES
+A.	The components, piping, and instrumentation associated with the Circulating Water System are non-safety related
+B.	The Delaware River supplies the Circulating Water System with approximately 1,110,000 gpm
+C.	Installed trash bar racks and screens prevent the introduction of debris and marine life into the system
+D.	The Circulating Water System's discharge from the condensers is returned to the Delaware River
+III.	DESCRIPTION
+ELO 3.a   TPs 1 & 2
+A.	General
+1.	The intake structure for the Circulating Water System is located South of Salem Units 1 and 2, along the riverfront of the Delaware River
+2.	Contains twelve (12) Circulating Water Pumps
+a.	Six (6) Circulating Water Pumps per unit
+b.	Also contains auxiliary equipment which supports operation of the Circulating Water System and Pumps
+3.	The Circulating Water Pumps' discharge supplies the units' main condensers
+4.	The discharge from the condensers is returned to the Delaware River
+ELO 4.a   TP-3, TP-34, TP-35
+B.	Circulating Water System
+1.	Intake Structure
+a.	Common for Units 1 and 2
+b.	Can be fitted seasonally with removable hurricane/wave walls (located between the trash racks and the screens)and ice barriers(located in front of the trash racks) for cold weather equipment protection
+ELO 4.n
+c.	Provided with a weather protecting enclosure with removable roof sections which afford system and component maintenance and accessibility
+1)	Ventilation system employed during the summer months
+2)	Partially heated by the Circulating Water Pump motors during colder weather
+3)	Additional space heaters supplement the enclosure to minimize equipment freezing
+d.	Each Circulating Water Pump is installed in an individual bay
+e.	Each bay has a Trash Bar Rack and Traveling Screen which remove floating or submerged debris
+f.	Stop logs (gates) can be inserted upstream of each Traveling Screen to permit dewatering of the bays and maintenance of individual Traveling Screens or Circulating Water Pumps
+g.	A fiberglass Fish Trough and pre-cast concrete Trash Trough run East and West along the south side of the Intake Structure
+1)	The Fish Trough has diversion gates at the north and south ends of the Intake Structure to allow the collection of marine life in Fish Counting Pools for inventory and examination
+2)	Captured marine life and debris in both troughs are joined at each end of the Intake Structure and are sluiced back into the Delaware River
+TP-34, TP-35
+3)	The Detritus Discharge Pipe was installed to discharge  the screen debris further away from the CW pump suctions to minimize detritus return. The 600 ft, 48 inch piping, takes a suction from the modified North Fish house. The old screen debris troughs will remain functional.         
+2EC-3361
+h.	DCP 2EC-3361 was completed to prevent spurious trips during the winter months due to additional heating loads.  The DCP modified the following:
+1)	Replaced the 150 amp feeder breaker (I2125-2GY1) to the Circulating Water 230 VAC Control Center with a 300 amp breaker.
+2)	The feed transformer was upgraded to a 220 KVA transformer from 150 KVA to allow for connecting Unit 2 and Unit 1 without exceeding the transformer rating.
+3)	The cross-tie Breakers I1125-2IY1 and I2125-2IY1 were increased from 300 amps to 350 amp breakers.
+4)	Based on making the above described changes to the No. 2 CWI 230 V System it was also necessary under this modification to replace the upstream 460V Breaker 2CW1X with higher rated trip device breaker at the No. 2 CWI 460 Bus in order to carry the load of the replacement transformer.
+ELO 4.b   TP-4
+2.	Trash Bar Racks
+a.	Installed at the inlet of each Circulating Water Pump bay
+b.	38 vertical bars per bay; 3" x 1/2"; spaced every 3.5"; 1/2" dimension facing flow
+c.	Block coarse floating and submerged debris from entering the pump bays
+d.	Each Trash Rack is just over 50' in length by almost 11' wide
+1)	Top is at elevation 100'; bottom is at elevation 50'
+2)	Sloped outward from top to bottom at approximately 9 degrees
+ELO 4.c
+3.	Trash Rakes (Bracket BoskersTM)
+a.	Two (total) service the Intake Structure for Units 1 and 2; located along the river side of the Intake Structure
+b.	Used to clean the Trash Bar Racks of accumulated debris
+TP-5 & 6
+c.	Consist of a traversing carriage system, a traveling trolley, and a gripper unit
+1)	Carriage - North/South movement
+2)	Trolley - East/West movement
+d.	The carriage frame is mounted on rails and travels over the width of the bar screens of both units
+e.	The trolley unit contains the hoisting unit for the gripper and the hydraulic power pack for the operation of the hydraulic cylinders on the gripper unit
+1)	Moved inside the carriage on nylon wheels coupled to a geared motor unit on the top of the trolley
+f.	Power is supplied by a trailing cable from a cable reel
+The controls are addressed in more detail in the Local Panels section
+g.	Control of the Trash Rakes is provided by locally mounted push-button stations on the carriage frame
+h.	The gripper unit consists of a series of fingers which are opened or closed by two hydraulic rams
+1)	Hydraulic hoses carry power to the rams from the power pack in the trolley
+2)	Wound on two spring tensioned drums which operate in sequence with the hoisting drums for the gripper support ropes
+i.	General Operation
+TP-5
+1)	The carriage is moved until it is above the selected Bar Rack to be raked
+a)	The carriage is stopped and the trolley is moved out to the raking position
+b)	The gripper unit is lowered with the fingers open
+2)	As the gripper descends, the downstream fingers engage with the Rack bars, and any accumulated debris is pushed to the base of the Bar Rack
+3)	At the bottom, the gripper stops and the fingers are closed with the hydraulic rams
+a)	Downward gripper travel is stopped automatically by a preset limit switch
+4)	The gripper is then raised with any collected debris
+5)	When the gripper reaches the top position, the trolley is moved back into the carriage
+a)	The fingers are opened and the debris is deposited into a trash hopper
+6)	When all desired positions have been raked, the carriage is returned to the dump position
+7)	The trolley is moved out of the way into the raking position, the trash hopper door is opened, and the hopper is raised
+8)	Debris is raked from the elevated hopper into the trash baskets
+9)	If a large amount of debris or other obstruction prevents the gripper unit from reaching the base of the Bar Rack, the lowering motion is automatically stopped
+10)	The operator closes the gripper fingers and lifts the gripper
+11)	The collected debris is then taken to the hopper and dumped
+j.	Power Supplies: No. 1 and No. 2 Circulating Water Intake 230V Control Centers
+k.	Inspect the trash bars every 2 hours and cleaned once per day from June 1 through October 15.
+ELO 4.d
+4.	Traveling Screens
+a.	Installed between each Trash Bar Rack and Circulating Water Pump
+b.	Filter finer debris and marine life from reaching the Circulating Water Pumps' suction
+TP-7,TP-31
+Note:  13A and 13B Circulating Water Traveling Screens also have unique design features/differences.  13A and 13B Traveling Screens also do not have shear pins and use a Variable Frequency Drive (VFD).  The 13A Traveling Screen itself is unique, it is a Geiger MultiDisc Screen (MDS).  See Unit Differences Section.    
+c.	Each screen assembly is a loop of basket screen panels; 1/4" x 1/2" mesh; made from composite material
+1)	Chain and sprocket driven by 15 hp motors
+d.	For all screens except 23B, shear pins protect against overload torque
+1)	1 shear pin per Traveling Screen on the coupling between the screen motor and the screen sprocket
+a)	1 shear pin now used to reduce cyclic stresses caused from using two shear pins.  With two pins each pin would constantly load and unload.
+2)	Debris buildup on the screen can create an overload condition which shears the pins
+3)	The shear pins are replaced by the Circ Water Operator as required
+e.	23B traveling screen is equipped with a flexible coupling which has no shear pin.  Overtorque protection is provided by an overtorque device in the screen Variable Frequency Drive.
+TP 31 
+f.	Unit 1 and 2 are equipped upstream and downstream with radar detectors used to determine delta P across the traveling screens.
+g.	The screens automatically travel at a speed proportional to the differential head across the screen
+5.	Impinged marine life and debris are carried by the ascending bucket screens up and over the head sprockets
+6.	As the baskets start to descend, the marine life and loose debris fall or are flushed into fish and debris troughs for return to the river or disposal
+ELO 9.a
+7.	All Traveling Screen's except 23B have their speed locally controlled by a four-position selector switch:
+a.	STOP
+b.	AUTO:
+1)	0" - 4" dP:   6 fpm
+2)	4" - 8" dP:  12 fpm
+3)	8" - 12" dP: 18 fpm
+4)	>12" dP:     36 fpm
+5)	These screen speeds are referred to as Low, Second, Third, and High speeds
+c.	MAN: Low, Second, Third, or High speeds can be selected with a separate selector switch for each screen
+d.	INCH: The screen can be jogged in the forward or reverse direction at Low Speed with separate push-buttons locally mounted near each screen
+1)	Jogging the screens in the forward or reverse directions aids routine operator maintenance of the screens (e.g., screen greasing, shear pin replacement, etc.)
+S2.OP-SO.CW-0001, ATTACHMENT 4
+8.	23B Traveling Screen has a Variable Frequency Drive (VFD), which continuously varies the speed of the traveling screen motor proportional to the differential pressure across the screen rather than the four discrete speeds on the remaining screens.  The VFD is controlled locally by a Screen Inverter Bypass Switch, a four-position Screen Control switch and a keypad.  Using Attachment 4 of S2.OP-SO.CW-0001:
+a.	The Screen Inverter Bypass Switch is a two position switch:
+1)	INVERTER:  the VFD control unit determines the speed of the motor and screen.
+2)	BYPASS:  the VFD control unit is bypassed and the motor is connected directly its power supply breaker.  There is no overtorque protection provided in this mode.
+b.	The Screen Control switch has four positions:
+1)	STOP
+2)	AUTO:  The VFD varies the frequency of the drive motor and thus the screen speed in proportion to the differential pressure across the screen.  The screen speed varies from 6 to 36 fpm for screen differentials from 0 to 12 inches.
+3)	MAN: To Raise / Lower speed while In Manual Control (Inverter Selector in Inverter Position)
+a)	SELECT keypad display to indicate speed (Hz).
+b)	USE Raise (Up Arrow) OR Lower (Down Arrow) to set keypad reference hertz to desired value of frequency for a given speed IAW with Chart.
+c)	PLACE Screen Control Switch in MANUAL AND VERIFY local light on keypad illuminates.
+d)	VERIFY Display shows speed raising OR lowering to desired value.
+e)	WHEN MANUAL Control is no longer desired, THEN PLACE Control Switch in AUTO AND VERIFY the REMOTE light on keypad illuminates.
+4)	INCH: The screen can be jogged in the forward or reverse direction at Low Speed with separate push-buttons locally mounted near each screen.
+a)	Jogging the screens in the forward or reverse directions aids routine operator maintenance of the screens (e.g., screen greasing.) 
+9.	The Traveling Screens are powered from Circulating Water Intake Distribution Panel DP2, which is fed from the Circulating Water Intake 2CW-460V Bus
+TP-2 and P&ID 205309, Sheet 4
+ELOs 3.a, & 4.e
+10.	Screen Wash Sub-System
+a.	Four Screen Wash Pumps per unit are installed in the Intake Structure
+1)	Located in the pump bays/screenwells for Circulating Water Pumps 22A/B and 23A/B
+b.	150 hp; 1500 gpm capacity
+ELOs 3.a & 4.f  TP-8
+Strainer backwash valves and operation have been changed by DCP EC-3303.
+c.	Each Screen Wash Pump discharges through an automatic cleaning strainer
+1)	The strainers are interlocked with their respective Screen Wash Pumps for rotation and backwash functions
+a)	The Screen Wash Strainer starts when the pump starts and are rotated by an integral motor.
+b)	The strainer motor starts and is continuously in service when the pump is running.  There is a constant controlled blowdown from each strainer that is in operation.  This blowdown backwashes debris from the strainer.  Continuous blowdown backwash was accomplished by drilling an orifice through the “closed” position of a manual ball valve. The ball valve can be manually opened to flush out any excess debris that may accumulate.
+c)	The strainer delta P switches are now no longer required and have been removed by the DCP
+d)	Strainer pressure gauges have been upgraded to a diaphragm sealed filled gauges to isolate them from the debris filled water and the gauge face will be liquid filled to dampen pointer pulsation’s.
+2)	Each strainer has a locally mounted push-pull AUTO/MAN control switch (Abandoned in place)
+d.	All four pumps' discharges are combined into a common 8" header which supplies 6 - 4" lines; one line to each Traveling Screen.  Normal header pressure is approximately 110-120 psig.  The typical operating pressure range (based on Auto Start and Stop set points for the screen wash pumps) is 90 to 135 psig.  Once the screen is running and pressure decreases to 30 psig, with no screen wash pumps running, the screen trips off. (The screenwash pressure permissive has been permanently jumpered out IAW DCP 80096076,80093380 FOR ALL BUT 13A. This bypasses the screenwash pressure requirement for the CW screen start).
+e.	The Unit 1 and Unit 2, 8" Screen Wash Headers can be cross-connected through two normally closed valves (1SC-914 and 2SC-929) as a backup supply for each other
+ELO 4.e, 9.b
+f.	Screen Wash Pump Control
+1)	Each Screen Wash Pump has a locally mounted STOP/AUTO/RUN control switch which is interlocked through a common Primary Pump Selector Switch
+2)	A 4-position Primary Pump Selector Switch selects one of the four Screen Wash Pumps (21/22/23/24) as the primary pump for screen wash service
+3)	If a Screen Wash Pump is selected as the primary pump and its control switch is in AUTO, then the pump will automatically start whenever any of the 6 Traveling Screens is running and Traveling screen delta P is > 4”.
+4)	The primary pump should be placed in the manual position.  The remaining available pumps should be placed in auto.  The screen will not run without screen wash pressure.
+5)	The Screen Wash Pump can also be started by selecting the RUN position on the pump's control switch, or by a local push-button at each pump's breaker cubicle
+6)	Screen Wash Pumps selected for AUTO operation, but not selected as the primary pump are designated as auxiliary pumps:
+a)	Start automatically in a time-delayed sequence if screen wash header pressure decreases to <90 psig
+b)	Stop automatically in a time-delayed sequence as screen wash header pressure increases >135 psig
+ELO 5.a
+7)	Power Supplies:
+a)	All four Screen Wash Pumps are powered from the Circulating Water Intake 2CW-460V Bus
+b)	All four Screen Wash Pump Strainers are powered from Section 1 of the Circulating Water Intake 230V Control Center
+8)	Screen Wash Water is automatically supplied to a Traveling Screen whenever the screen's control switch is selected to AUTO or MAN
+TPs 9, 10, & 11
+9)	As the Traveling Screen baskets rotate over the top sprocket and change vertical position, they encounter Screen Wash Spray headers in this order:
+a)	One 2" fish sluice spray upper header outside the screen (8 - 12 psig)
+b)	Two 2" fish removal spray upper headers inside the screen (21 - 25 psig)
+c)	One 3" high pressure debris spray header inside the screen (> 70 psig)
+d)	One 3” (manual) Aux. high pressure spray header inside the screen(> 70 psig).
+10)	DCPs 1EE00407 & 2EE0344 removed the 2 automatic pressure regulators for fish spray.  Manual valves are now used to control Screen Wash Header pressure to the inside and outside spray header (Inside header pressure is normally set to 21-25 psig) (Outer header pressure is normally set to 8-12 psig) 
+11)	The three upper headers are blown down through individual isolation valves to remove accumulated debris and mud from the headers and spray nozzles, as required
+g.	An additional 3” (manual) Aux. high pressure debris spray header (> 70 psig) inside the screen is manually placed into service whenever:
+1)	Screen differential head exceeds 8"
+2)	Screen Third Speed or High Speed is manually selected
+Note: Aux spray is normally in service and only closed if low screen wash pressure occurs due to lack of operable pumps.  Also see Unit Differences section for a discussion on 13B Traveling Screen front spray.  The manual aux spray for 13B traveling screen will be isolated if the front spray is in service. Supplemental Screen Wash Pumps will be used as needed.
+TPs 9,10,10A,32,33
+h.	Flexible rubber "fish and debris lips" mounted on the Fish and Trash Troughs keep debris and marine life from falling or being sprayed directly down into the screen wells
+1)	Up to several times each shift, depending upon the amount of debris buildup, the fish and debris lips are manually raked clean inside each Traveling Screen housing by the Circ Water Operator
+2)	DCP 80043348 modified the fish lips.  Screens with the DCP installed have “hinged” fish lips.  This mod allows the operator to move the fish lip away from the rotating screen element while the lip is being raked.  This is a safety enhancement to the system. 
+Note: It is not  necessarily required isolate the water to clean fish lip – just get it a little wet
+3)	To clean inside the housing, each Traveling Screen's Screen Wash Water is completely isolated by closing its manual isolation valve (SC-8s/108s) off the common Screen Wash Header
+TPs 32 & 33
+                             I. 	Supplemental Screen Wash Pumps- To assist in the transport     
+                                        of the detritus and debris on the troughs,(2) 1500 gpm
+                                        supplementary pumps will be permanently installed at 
+                                        CWIS. One pump is located on the north end of CWIS 
+                                        and the other located on the south end. The pumps will
+                                        draw a suction from 13B and 23B intake bays. The 
+                                        discharges of the pump tie to a common header that will
+                                        discharge to the north,south, and mid-point of the troughs
+                                        The flow to each trough is 25% to the upper and 75%
+                                        to the lower. The flow to the troughs are capable of
+                                        adjusted with valves. The pumps are normally not 
+                                        running and are manually started as needed.                   
+                                                                                                              
+TP-2 and P&ID 205309
+ELOs 3.a & 4.g
+11.	Circulating Water Pump Bearing Lubrication Pumps
+a.	Two pumps per unit supply cooling water to each Circulating Water Pump:
+1)	Upper motor bearing
+2)	Pump gland
+3)	Pump lower bearing
+b.	Bearing Lube Water does not supply cooling to the motor windings or the lower motor bearing
+c.	Unit 2 pumps are designated as pumps #2 and #4; Unit 1 pumps are #1 and #3
+d.	Mounted in the Circulating Water Pumps 21B and 22B pump bays/screenwells
+e.	The Bearing Lube Pumps are submersible pumps, held in place by chainfalls (hoists)
+1)	The pumps' discharge pressure can be altered if they are moved vertically or laterally; exercise caution around the pumps to not disturb their position
+ELOs 3.a & 4.h.   2EC-3303
+f.	Each Bearing Lube Pump discharges through an automatic strainer into a common header which supplies all six Circulating Water Pumps
+1)	The strainer motor starts and is continuously in service when the pump is running.  There is a constant controlled blowdown from each strainer that is in operation.  This blowdown backwashes debris from the strainer.  Continuous blowdown backwash was accomplished by drilling an orifice through the “closed” position of a manual ball valve. The ball valve can be manually opened to flush out any excess debris that may accumulate.
+a)	The strainer delta P switches are, now, no longer required and have been removed by DCP process
+g.	Strainer pressure gauges have been upgraded to a diaphragm sealed filled gauges to isolate them from the debris  filled water and the gauge face will be liquid filled to dampen pointer pulsation’s.
+h.	The two Bearing Lube Pumps discharge into a common 3" header which supplies all six Circulating Water Pumps through individual 1.5" lines and isolation valves
+1)	Normal Bearing Lube header pressure is approximately 27 - 35 psig.  The lower limit on logs is 14 psig
+2)	Relief valve 2SC16 keeps the Bearing Lube header pressure < 45 psig per 1EE-0394f.
+a)	2 inch angle globe valve
+b)	Located south of 21B Circulating Water Pump, 12 feet above floor
+3)	Each Circulating Water Pump's Bearing Lube isolation valve is manually throttled for the desired flow to the Circulating Water Pumps.  The valve may be opened to blow down the motor cooler, but it must be returned to its throttled position.
+i.	Each Circulator Bearing Lube Pump is controlled by a locally mounted STOP/AUTO/RUN handswitch
+ELO 9.c
+j.	If selected to AUTO, a Bearing Lube Pump will automatically start if:
+1)	Bearing lube water header pressure decreases to < 20 psig, or
+2)	A thermal overload condition is sensed on the running Bearing Lube Pump
+ELO 5.b
+k.	Power Supplies: Both Bearing Lube Pumps and their associated strainers are powered from Section 1 of the Circulating Water Intake 230V Control Center
+ELO 17
+l.	Each unit's Screen Wash Header can be cross-connected to its unit's Bearing Lube Header through a normally closed valve (2SC-18) and a pressure-reducing valve (2SC-13), set to approximately 14 psig, as an emergency backup supply for the Circulating Water Pumps
+1)	With both Bearing Lube Pumps off, the Screen Wash System can maintain Bearing Lube Header pressure for an adequate supply of Bearing Lube water to all Circulating Water Pumps
+ELOs 3.a & 4.i  TP-12
+12.	Circulating Water Pumps
+a.	Six paired Worthington 84-inch "Hi-Flo" pumps per unit
+1)	185,000 gpm capacity per pump; 27 ft. head
+b.	Feed river water via separate 84-inch pre-stressed concrete pipe lines to the three Main Condenser sections
+c.	Each pump is coupled to a 2000 hp motor which rotates at 292 rpm
+ELO 4.j
+d.	An integral 42-inch bypass line for each pump is used during the pump start sequence
+1)	The bypass line returns the pump discharge back to the pump's bay
+TPs 2 & 13
+ELOs 4.i, j, k, m
+ELO 6
+e.	Circulating Water Pump Starting/Stopping Sequence and Interlocks
+1)	Prior to starting a Circulating Water Pump, the following start permissives must be satisfied:
+a)	Circulator Bearing Lubrication Water pressure > 14 psig
+b)	When the associated condenser water box vacuum reaches < 1 " Hg, the start permissive contact is closed and the vacuum breakers will be automatically closed.  The “READY TO START” light will be on continuously (if all other permissives are met as well).
+Note: The “READY TO START” push-button was added by dcp 2EC-3465.  When it is depressed it functions as follows:
+•	Outlet Valve CW26 closes
+•	Bypass Valve CW9 opens
+•	Waterbox vacuum breakers (CW15/20/21 and 25) to cycle to maintain pressure      < 2.5 “ Hg vacuum
+	The “READY TO START” light will initially flash when depressed, once all start permissives are satisfied the light will change from flashing to steady, indicating the pump is ready to start.
+•	If the condenser waterbox vacuum increases to greater then 2.5” hg after the “READY TO START” push-button has been depressed, the pump start permissive is lost.  At that time, the “READY TO START” light will resume flashing and the vacuum breakers will be automatically open to reduce vacuum.
+ELO 4.k
+c)	Condenser and Circulating Water Vacuum Breakers closed
+•	Four (4) air-operated valves
+(a)	One on each Circulating Water Pump discharge line (CW-15/115; 12")
+(b)	One on each Condenser inlet water box (CW-20/120, 12")
+(c)	One on each Condenser outlet water box (CW-21/121, 12")
+(d)	One on each Condenser Circulating Water outlet line (CW-25/125, 16")
+d)	Circulator Bypass Valve fully open (CW-9/109)
+e)	Condenser Outlet Valve fully closed (CW-26/126)
+2)	If not already positioned prior to starting the pump, depressing the pump's “READY TO START” push-button will:
+a)	Open the Bypass Valve (CW-9/109)
+b)	Close the Condenser and Circulating Water Outlet Line Vacuum Breakers (CW-20/120, CW-21/121, and CW-25/125)
+c)	Close the condenser section Water box Vacuum Priming Valve (AR-16/116)
+d)	Close the Condenser Outlet Valve (CW-26/126)
+3)	Once all start permissives are satisfied, the READY TO START light will go from flashing to steady on.
+4)	Depressing the START push-button will cause the Circulating Water Pump's breaker to close and the pump will start running
+5)	When the Circulating Water Pump breaker closes, an interlock is established which automatically opens, and prohibits closing, the associated condenser section Air Removal Valve (AR-11/111)
+6)	After the Circulating Water Pump has been running for 3 minutes, and if Circulating Water Pump discharge line pressure is >14 psig, the Condenser Outlet Valve (CW-26/126) begins to open
+7)	After the Condenser Outlet Valve is fully open, and if pressure at the discharge of the Circulating Water Pump is <9 psig, then the Circulating Water Pump Bypass Valve (CW-9/109) will automatically close.  AR16/116 are automatically opened to allow removal of any air in the waterboxes.
+8)	Either Circulating Water Pump running on a condenser section, with its Condenser Outlet Valve open, sends a permissive signal to unblock that condenser section's Turbine Bypass Valves ("Circulators In Service")
+a)	With both Circulating Water pumps secured on a condenser section with their Condenser Outlet Valves closed, that condenser section's Turbine Bypass Valves are blocked
+9)	Depressing a running Circulating Water Pump's normal STOP push-button causes the following to occur:
+a)	Opens the Circulator's Bypass Valve (CW-9/109)
+b)	Closes the Condenser Outlet Valve (CW-26/126)
+c)	Stops the Circulating Water Pump
+d)	Air Removal Valve closes (AR 11/111)
+e)	After the Circulating Water Pump is stopped, and when its discharge pressure decreases to less than 1/3 atmosphere ( >10" Hg)), the pump's Discharge Line Vacuum Breaker automatically opens (CW-15/115)
+•	The vacuum breaker will automatically reclose, and satisfy the pump restart interlock when the pressure increases to > atmospheric pressure ( > 30" Hg) 
+10)	The Circulating Water Pumps also have an EMERGENCY STOP feature
+a)	The Circulating Water Pump's breaker opens
+b)	The Condenser Inlet and Outlet Water box and Outlet Line Vacuum Breakers open (CW-20/120, CW-21/121, CW-25/125)
+c)	That condenser section's Water Box Vacuum Priming Valve closes (AR-16/116)
+d)	That condenser section's Air Removal Valve (AR-11/111) closes
+e)	The Circulating Water Pump's Bypass Valve (CW-9/109) opens, then the Condenser Outlet Valve (CW-26/126) closes when the pump is emergency stopped
+f)	The Circulating Water Pump is locked-out from starting again until the EMERGENCY STOP signal is reset
+g)	The EMERGENCY STOP is reset by:
+•	Depressing the normal STOP push-button to reset the starting circuit
+•	Depressing the READY TO START push-button to reset the Circulating Water Vacuum Breakers
+ ELO 5.c  TP 28
+11)	Power Supplies: The Circulating Water Pumps are powered from the 4160V Circulating Water Buses, Bus Sections 23 and 24
+ELO 16
+12)	Circulating Water pump status (running or secured) and respective condenser outlet position are sent to the Steam Dump system.
+a)	At least 1 circulator in the condenser has to be operating for the 4 steam dump valve in the condenser to operate.  
+b)	If during steam dump operations , a condenser  is lost, the 4 valves associated with the condenser will shut .	
+c)	This would mean less steam flow from the Steam Generators and depending if the other valves in the steam dump system could compensate, possibly a higher RCS temperature.
+ELO 6.a
+f.	Circulating Water Pump Trips
+1)	Bus Section Overcurrent
+2)	Bus Section Undervoltage
+3)	Bus Section Differential
+4)	Bus Section Tie Breaker Overload Trip
+5)	Bus Main Supply Breaker Overload Trip
+Note:  13A Circulating Water Pump Trip is  8 ft Differential Head across the Circulating Water Pump’s Traveling Screen.  Vendor has stated that a  10 ft trip is acceptable and a design change is pending.
+6)	> 10 ft. Differential Head across the Circulating Water Pump's Traveling Screen
+ELOs 3.a & 4.l   TP-2
+13.	Main Condenser
+a.	Double-flow, triple-shell, single pass, divided, surface condensers
+b.	The flow from two Circulating Water Pumps passes once (single pass) through each condenser section
+c.	The Circulating Water flows through each condenser section do not mix (divided)
+d.	Inlet and outlet tubesheets are 1-1/8" thick 
+e.	Steel, bonnet-type inlet and outlet water boxes are bolted to the tubesheets
+f.	Each water box is equipped with:
+1)	Aluminum-Bronze nozzle safety gratings for personnel protection
+2)	Copper-Nickel ladders for maintenance access
+3)	Two manways
+4)	A 12" vent/vacuum breaker line
+5)	The outlet water boxes (only) have 6" drain lines
+g.	Each of the three condenser section shells contains 22,742, 1" diameter, SS Circulating Water tubes
+1)	Effective tube length = 44' 9.5" 
+2)	Sloped 2" toward the inlet water boxes to facilitate tube drainage
+h.	3.14159 x 1/12 ft. dia. x 44.7917 ft. length x 68,226 tubes total = 800,047 sq. ft. condensing area
+ELO 4.m   TP-2
+14.	Condenser Outlet Valves CW-26/126
+a.	84" motor-operated butterfly valves with integral hand operators
+b.	Open automatically after the Circulating Water Pump has been running on bypass flow for 3 minutes, if the pump's discharge pressure is >14 psig
+c.	If open, will close when the Circulating Water Pump start push-button is depressed to satisfy a Circulating Water Pump start permissive
+d.	Interlocked with the Circulating Water Pump Bypass Valve
+1)	Bypass Valve will close after the Outlet Valve is fully open upon Circulating Water Pump start
+2)	After the Condenser Outlet Valve is fully open, and if pressure at the discharge of the Circulating Water Pump is <9 psig, then the Circulating Water Pump Bypass Valve (CW-9/109) will automatically close
+e.	Operating time to fully open or closed is approximately four minutes
+f.	Power Supplies:
+1)	CW-26s receive power from the No. 21 Turbine West 230V Control Center
+2)	CW-126s receive power from the No. 21 Turbine East 230V Control Center
+ELO 3.b  TP-2, & 14
+C.	Flowpaths
+1.	Circulating Water is drawn from the Delaware River through the Trash Racks and Traveling Screens into the Intake Structure
+2.	The Circulating Water Pumps deliver cooling water flow to the Turbine Buildings across the Yard through buried 84" pre-stressed concrete embedded pipes
+a.	Average pipe length from the Intake Structure to the Turbine Building is:
+1)	Approximately 900 feet for Unit 1
+2)	Approximately 1250 feet for Unit 2
+3.	The inlet piping enters and traverses the East side of the Turbine Building buried in the Turbine Building Basemat
+4.	Just before the condensers, the piping makes a 90 degree vertical turn upward and passes through the basemat at elevation 84'
+5.	During its vertical run, a pre-stressed concrete embedded pipe transition piece expands the piping from 84" I.D. to 108" I.D. just prior to entering the Condenser Inlet Water boxes
+6.	Circulating Water flows into the Condenser Inlet Water boxes, through the condenser tubes, and out into the Condenser Outlet Water boxes
+a.	The Circulating Water Pumps fill the condenser inlet piping and inlet water boxes
+b.	Flow through the condenser tubes and through the condenser outlet piping is a siphon system
+7.	From the Outlet Water boxes, each condenser section's Circulating Water flows through 84" I.D. embedded pipe back into the basemat
+8.	The two Circulating Water outlet flows from each condenser section combine into a single 120" I.D. pre-stressed concrete embedded pipe
+9.	Discharges from the Unit 1 and 2 Service Water Systems, and the Non-Radioactive Liquid Waste System are admitted to the Circulating Water System discharge piping downstream of the condenser outlets
+a.	The outlet of Condenser sections 21A and 23B receive Turbine Area Service Water discharge
+1)	The outlet of condenser section 21A receives Unit 1 Turbine Area Service Water discharge
+2)	The outlet from condenser section 23B receives Unit 2 Turbine Building Service Water discharge
+3)	Service Water System  - Turbine Area, provides a reliable source of cooling water to the following components:
+a)	Turbine Auxiliary Cooling (TAC) Heat Exchangers
+b)	Main Turbine Lube Oil Coolers
+c)	Steam Generator Feed Pump and Turbine Lube Oil Coolers
+d)	Station Air Compressors (in Unit 1)
+b.	The combined outlets from condenser sections 21A/B and 22A/B receive Service Water discharge from the Auxiliary Building, and Non-Radioactive Liquid Waste Disposal
+1)	Service Water Nuclear Headers serve as the ultimate heat sink for various Safety Related and Non-safety Related heat loads in the Auxiliary Building and Containment
+2)	Non-Radioactive Liquid Waste Disposal System (NRLWDS) treats non-radioactive liquid wastes from the station to meet requirements of the National Pollutant Discharge Elimination System (NPDES) Discharge Permit and Delaware River Basin Commission (DRBC)
+10.	Radioactive liquid waste is discharged through the Service Water System to the Circulating Water System
+a.	Depending upon the flowpath chosen, the Circulating Water Pump in the affected discharge flowpath must be running to meet discharge dilution requirements
+b.	Ensure that stopping a running Circulating Water Pump does not affect a radioactive liquid discharge flowpath; notify Chemistry any time a Circulating Water Pump is removed from service
+11.	Vertical standpipes in the Yard are connected to the Circulating Water System discharge piping
+a.	The standpipes allow access to the Circulating Water System discharge for Sample Pumps and discharge temperature elements
+b.	The Circulating Water discharge is sampled by Chemistry for residual chlorine and pH from the Service Water System, which is chlorinated continuously
+c.	Although the ability to chlorinate the Circulating Water System at the pumps' suctions exists, it was found that no chlorination is necessary to prevent system macrofouling
+d.	The overall velocity within the Circulating Water System, and the presence of silt in the water prevents any organisms from settling and scours the condenser tubes
+12.	From the Turbine Building, the six Circulating Water outlet flows traverse approximately 1110' across the Yard and back into the Delaware River, gradually sloping downward to a final outlet elevation of approximately 58 feet
+a.	Mean Tide Elevation is approximately 89 feet
+ELO 4.n   TP 15
+D.	Intake Structure Heating and Ventilation
+1.	The Intake Structure's ambient temperature is maintained by fans, heating coils, dampers, air intake louvers, and temperature controllers
+2.	Six 27,000 cfm tubeaxial Heating Fans are mounted horizontally in the overhead of the Intake Structure enclosure; three fans per unit side
+TPs 16 & 17
+a.	Each fan is located between, and serves the area of two Circulating Water Pump motors
+b.	The fans take a suction on the area above and between the pair of Circulating Water Pump motors it serves
+c.	Each Heating Fan discharges into ductwork which splits into two ducted air paths
+1)	One duct discharges to the Intake Structure roof (27,000 cfm max) and contains a manually operated damper
+2)	The other duct also contains a manually operated damper, and splits again downstream of the damper into two separate paths
+a)	One path directs air to the general Intake Structure room area (15,000 cfm max)
+b)	The other path directs air past a hot water-supplied heating coil and into a common air header which splits into four air connections
+•	These connections supply the area of the Traveling Screens (2) of the Circulating Water Pump motors being served by the tubeaxial Heating Fan (12,000 cfm max)
+•	Warm air is supplied to the Traveling Screens in cold weather to prevent them from freezing
+Note: The AUTO function of the fans has been eliminated.
+d.	The Heating Fans are operated by locally mounted STOP/AUTO/START handswitches
+e.	The fans may be started or stopped at any time from their respective handswitches
+f.	Manually-operated air intake louvers in the Intake Structure enclosure wall are located directly behind each Circulating Water Pump
+g.	The ventilation ductwork dampers and the enclosure louvers are manually positioned as required to maintain the desired enclosure ambient temperature
+h.	The Heating Coils in the ductwork to the Traveling Screen areas (6 total, 3 per unit side) are supplied hot water by the Circulating Water Intake Structure Boiler
+1)	A three-way valve in each Heating Coil's hot water return line is modulated by a pneumatic temperature controller which senses local ambient temperature and attempts to maintain 55F in the area
+2)	The three-way valves can bypass a portion of each Heating Coil's hot water supply to maintain the setpoint temperature when the coils are being supplied hot water
+3)	These Heating Coils can be used during periods of cold ambient temperature when no Circulating Water Pumps are running and pump motor heat in not being introduced into the enclosure
+TP-16
+3.	The Intake Structure enclosure is also served by six Unit (Space) Heaters; 3 per unit side
+a.	The Unit Heaters each contain a fan, and are also supplied hot water from the Circulating Water Intake Structure Boiler
+b.	The fans are controlled by STOP/AUTO/START handswitches; spring return to AUTO
+c.	When in AUTO, each Unit Heater Fan automatically cycles on and off around a 55F ambient temperature setpoint as sensed by an independent locally-mounted temperature switch
+d.	The Unit Heaters supplement the Heating Coils to maintain a steady 55F ambient temperature in the Intake Structure enclosure with no Circulating Water Pumps running, or during periods of extreme low temperature.
+4.	Each unit's Fish Counting Room and Trash Removal Room contains inlet and exhaust dampers and fans, and thermostatically-controlled electric heaters
+a.	The temperature controllers cycle the heaters to maintain 65F in the rooms
+ELO 4.o
+E.	Circulating Water Intake Structure Heating Boiler
+1.	A packaged firetube boiler heats water, which is supplied to the Intake Structure Unit Heaters and Heating Coils
+TP-1, 18
+2.	The Boiler is located in its own separate enclosure behind the Unit 2 portion of the Circulating Water Intake Structure
+3.	Consists of a pressure vessel, burner, burner controls, forced draft fan, damper, air pump, refractory (heat-resistant ceramic), and boiler trim
+4.	Combustion fuel for the Boiler is oil from the Unit 1 Fuel Oil System
+TP-19
+5.	Burner and Control System
+a.	The oil burner is the low pressure, air atomizing type
+b.	The fuel is ignited by a spark-ignited propane pilot
+c.	The burner operates through potentiometer-type positioning controls, and returns to its minimum firing position for ignition
+d.	A flame safeguard control includes an infra-red sensitive flame detector and shuts the burner down in the event of a loss of flame signal
+e.	The Boiler's programming control provides a pre-purging period prior to ignition, requires proof of the pilot and main flame, and allows a period of continued blower operation to purge the boiler of unburned fuel vapor after shutdown
+f.	Safety interlocks also include combustion and air-atomizing proving switches
+g.	The sequence of burner operation from startup through shutdown is governed by an automatic programmer
+h.	Combustion air is provided by a centrifugal blower, and air delivery is controlled by an automatic damper
+i.	The motor which positions the air delivery damper also regulates the flow of fuel oil through a cam-operated metering valve
+j.	Filtered air for atomizing the fuel oil is provided independently of combustion air by an air pump
+6.	Burner Controls and Components
+a.	Ignition Transformer: Provides a high voltage spark which ignites the pilot
+b.	Modulating Motor: Operates a rotary damper and fuel valves through a cam and linkage system to provide the proper air-fuel mixture for combustion
+c.	Low Fire Switch: Cam-operated by the damper motor shaft; must be closed to indicate that the air damper and fuel metering valve are in the correct Low Fire position before an ignition cycle can occur
+d.	Burner Switch: Manually operated to directly start and stop Boiler operation
+e.	Manual-Automatic Switch
+1)	In Automatic, allows automatic burner operation through the modulating motor to adjust the firing rate according to load demand
+2)	In Manual, the modulating motor can be positioned to any burner firing rate with the Manual Flame Control
+f.	Manual Flame Control: A manually-operated potentiometer that allows positioning the modulating motor to a desired burner firing rate when the Manual-Automatic Switch is in Manual; has no control when the switch is in Automatic
+g.	Indicator Lights: Provide information concerning Boiler operation
+1)	Flame Failure
+2)	Load Demand
+3)	Fuel Valve (valve open)
+4)	Low Water
+h.	Programming and Safeguard Control
+1)	Automatically programs each starting, operating, and shutdown period
+2)	Includes a timed sequence for the operation of the blower motor, ignition system, fuel valves, and damper motor
+3)	Recycles automatically during normal operation, or following a power interruption
+4)	Must be manually reset following a shutdown caused by loss of flame
+5)	Programming is run by a timer which actuates cams to open and close contacts in a non-adjustable timed sequence which governs the Boiler's operation
+i.	Flame Detector: Proves pilot and main flame, and monitors the main flame during Boiler operation
+TP-20
+7.	Fuel and Atomizing Air Controls and Components
+a.	Fuel Oil Pump: Delivers fuel oil under pressure to the burner system
+b.	Fuel Oil Valve: Regulates the supply of fuel oil to the burner nozzle in accordance with Boiler load demand; controlled by the modulating motor through linkage and an oil metering cam
+c.	Burner Oil Pressure Gauge: Indicates the pressure of the fuel oil at the metering valve
+1)	Burner oil pressure should be approximately 40 psi prior to ignition
+2)	The Burner Oil Pressure Gauge will indicate lower when the Main Flame is ignited, and will decrease slightly as the firing rate is increased
+d.	Air Pump: Provides air for atomization of the fuel oil
+e.	Air Intake Strainer: An oil bath type strainer cleans the air supply prior to entering the air pump
+f.	Air-Oil Receiver Tank: Holds a supply of oil for lubricating the air pump; separates lube oil from the atomizing air before delivery to the nozzle
+g.	Lube Oil Level Sightglass: Indicates the level of lubricating oil in the Air-Oil Receiver Tank
+h.	Lube Oil Strainer: Filters the lubricating oil before it enters the air pump
+i.	Air Intake Control Valve: Controls the volume of intake air to provide a means of regulating the atomizing air pressure at the burner nozzle
+j.	Oil Drawer Switch: Breaks the circuit if the oil drawer burner gun is not latched in the forward position required for burning oil
+k.	Atomizing Air Proving Switch: Pressure actuated switch whose contacts are closed when sufficient atomizing air pressure from the air pump is present for oil firing
+TP-21
+8.	Combustion Air Controls and Components
+a.	Forced Draft Fan: Furnishes air under pressure for pilot and main flame combustion, and provides pre- and post-operation purge air; also referred to as the blower
+b.	Rotary Air Damper: Provides control of combustion air in proportion to fuel input for various load demands
+1)	Consists of two concentric cylinders with openings
+2)	Outer cylinder is stationary
+3)	Inner cylinder is rotated by the modulating motor to vary the size of the openings where they overlap
+c.	Diffuser: Imparts a rotary swirling motion to the combustion air immediately prior to its entering the flame to provide thorough and efficient mixture with the fuel
+9.	Boiler Controls
+a.	Operating Limit Temperature Control: Stops burner operation if Boiler temperature increases above a pre-selected setpoint
+b.	High Limit Temperature Control: Stops burner operation if Boiler temperature increases above a pre-selected setpoint greater than the Operating Limit Temperature Control
+c.	Modulating Temperature Control: Senses changing Boiler temperature; adjusts the Modulating Motor to control the Boiler's firing rate when the Manual-Automatic Switch is selected to Automatic
+d.	Low Water Cutoff Switch: Float operated; stops firing the Boiler if water level decreases below a safe operating point and energizes the Low Water indicating light
+10.	Circulating Water Heating Boiler Operation
+a.	The motor-driven timer in the Programming Control Unit sequences the operation of all other controls and components to provide an overall operating sequence
+These prerequisites assume the Boiler is being placed in service from a warm condition
+b.	Prerequisites for Boiler start:
+1)	MANUAL/AUTO Switch and Modulating Mode Selector Switch are in AUTO
+2)	Circulator Pump and Boiler Control Switch is in START
+3)	The burner gun is in its most forward position and latched in place
+4)	The Low Water indicating light is OFF
+5)	The Load Demand indicating light is ON
+6)	Burner Switch is placed to ON
+c.	The following sequence will occur:
+1)	Blower Motor and Timer Motor are energized to initiate the Pre-Purge Cycle
+2)	The Damper Motor drives the damper to the High Fire position (open) to allow a flow of purging air through the Boiler for approximately 70 seconds
+3)	At the end of the Pre-Purge Cycle, the Damper Motor drives the damper to the Low Fire (closed) position
+4)	The pilot flame is ignited and must be established and proven within 10 seconds
+5)	The Fuel Oil Valve is opened and the Fuel Valve Light goes ON
+6)	The Main Flame is ignited
+7)	After a 15 second proving period for the Main Flame, the pilot flame is extinguished
+8)	After the Main Flame is established, the Modulating Motor Control circuit automatically controls Boiler firing rate
+9)	The Boiler will continue firing until water temperature increases greater than the demand setpoint
+10)	When water temperature exceeds demand:
+a)	The Fuel Oil Valve closes
+b)	Main Flame is extinguished
+c)	The Blower Motor continues to operate to force air through the Boiler in a post-purge cycle
+d)	The Load Demand and Fuel Valve lights are OFF
+e)	The Damper Motor drives the damper to the Low Fire position
+f)	At the end of the Post-Purge Cycle, the Blower Motor stops and the purge valve closes
+d.	The Boiler is ready for subsequent recycling when water temperature decreases below the demand setting
+1)	The Boiler is set to maintain water temperature > 170F
+e.	When water temperature decreases below the demand setting, the Boiler will sequence through its normal starting and operating cycle again
+11.	Boiler Shutdown
+a.	Burner Switch is placed to OFF
+b.	Fuel Oil Valve closes
+c.	Flame is extinguished
+d.	Blower Motor continues to force air through the Boiler during the Post-Purge Cycle
+e.	Load Demand and Fuel Valve lights are OFF
+f.	Damper Motor drives the damper to the Low Fire position
+g.	At the end of the Post-Purge Cycle, the Blower Motor stops and the Purge Valve closes
+h.	The Circulator Pump and Boiler Control Switch is placed in STOP
+12.	Intake Structure Boiler Circulator Pump
+a.	Circulates hot water from the Boiler to the Intake Structure Unit Heaters and Heating Coils
+b.	Controlled from the Circulator Pump and Boiler Control Switch
+c.	When in AUTO, the pump and Boiler are controlled by a thermostat which senses outside temperature
+d.	When outside temperature decreases to < 45F, the Circulator Pump starts and the Boiler begins its starting and firing sequence
+e.	The pump stops and the Boiler shuts down when outside temperature increases to > 45F
+IV.	INSTRUMENTATION AND CONTROL
+A.	Local Controls and Indications
+1.	All panels located at the Circulating Water Intake Structure are at elevation 100'
+ELO 7  TP-22
+2.	Traversing Trash Rake Control Panels
+a.	Mounted on each Trash Rake carriage
+1)	Separate Control Stations at the North and South ends
+2)	Separate Dump Stations at the North and South ends
+b.	The Control Stations contain push-buttons and colored indicating lights for the operation of the Gripper, Trolley, and Traversing Carriage
+1)	Also contain an Emergency Stop push-button, Hydraulic Overload indication, and Control On power indication
+c.	The Dump Stations control and indication is as follows:
+1)	Dump UP push-button
+2)	Dump Down push-button
+3)	Emergency Stop push-button, and 
+4)	Control Power indication
+d.	Control Station Operation
+1)	Refer to SC.OP-SO.CW-0001(Q), Circulating Water Trash Rack Operation” for additional detail of the control station operation.
+e.	Location: Circulating Water Intake Structure, on the Traversing Trash Rake carriages which traverse rails just North of the Trash Racks
+ELO 7
+3.	Traveling Screen Contactors - Panels 945-2A through 945-2F
+a.	Each panel serves one Traveling Screen
+b.	Contain the following Traveling Screen controls:
+1)	INCH/FWD/LOW push-button
+2)	INCH/REV/LOW push-button
+c.	No local indication
+d.	Location: Circulating Water Intake Structure, West of each Circulating Water Pump
+4.	Screen Wash Level Controls - Panels 670-2A, 2B, and 2C
+a.	Each panel serves one pair of Traveling Screens
+b.	Contain the following equipment:
+1)	High and low side air filters/regulators
+2)	Rotameters for the Traveling Screen air bubblers (0.10-12.0 SCFH)
+3)	Screen Wash control differential pressure transmitters
+a)  There are redundant 24vdc power supplies for these           transmitters.  Indication for power supply availability, red for primary and amber for auxiliary, is provided on Panel TS2.
+4)	Solenoids for Screen Wash header control valves
+c.	Locations
+1)	Panel 670-2A: West of the 21A Circulating Water Pump
+2)	Panel 670-2B: West of the 22B Circulating Water Pump
+3)	Panel 670-2C: West of the 23A Circulating Water Pump
+ELO 7
+5.	Screen Wash Controls - Panel 360-2
+a.	Main control panel for all the unit's Traveling Screens and Screen Wash Pumps
+b.	Contains the following controls and indications:
+1)	All Traveling Screens except 23B STOP/AUTO/MANUAL/INCH mode selector switch
+2)	All Traveling Screens except 23B  LOW/SECOND/THIRD/HIGH speed selector switch
+3)	Each (4) Screen Wash Pump's STOP/AUTO/RUN selector switch
+4)	The Screen Wash Pump Primary Pump Selector Switch
+5)	Each (2) Circulator Bearing Lubrication Pump's STOP/AUTO/START selector switch
+6)	Screen Wash Pump and Circulator Bearing Lubrication Pump Strainer high differential pressure indicating lights
+c.	Location: East of the 22A and 22B Circulating Water Pumps
+6.	23B Traveling Screen controls – VFD Enclosure
+a.	Screen Inverter Bypass Switch, a four-position Screen Control switch and a keypad.
+ELO 7
+7.	Screen Wash and Circulator Bearing Lube Pumps Discharge Header - Panel 371
+a.	Contains the following instrumentation:
+1)	No. 1 and 2 Units' Screen Wash Discharge Header indication
+a)	Dual needle 0-200 psig gauge
+b)	Unit 1: Black pointer; Unit 2: Red pointer
+2)	No. 1 Unit Circulator Bearing Lube Pump Header Pressure indication (0-60 psig)
+3)	No. 2 Unit Circulator Bearing Lube Pump Header Pressure indication (0-60 psig)
+4)	Pressure switches associated with Screen Wash and Bearing Lube Pump header pressures
+b.	Location: Between the 11A and 21A Circulating Water Pumps
+ELO 7
+8.	Screen Wash Pump Strainer - Panels 947-2A, 2B, 2C, and 2D
+1)	Each panel contains: 
+a)	Each strainer has a locally mounted push-pull AUTO/MAN control switch (Abandoned in place)
+b)	Each PUSH/PULL selector switch has integral a red indicating light which illuminates when the strainer is being backwashed manually (Abandoned in place)
+2)	Thermal overload RESET push-button for the strainer backwash motor
+3)	As stated previously, each Screen Wash Pump discharges through an automatic cleaning strainer
+a)	The strainers are interlocked with their respective Screen Wash Pumps for rotation and backwash functions
+•	The Screen Wash Strainer starts when the pump starts.
+•	So the strainer is continuously in service when the pump is running and backwashing through a (manual) closed, but the ball valve is drilled, to allow continuous backwash flow.  The strainers are rotated by an integral motor.
+b.	Locations
+1)	Panel 947-2A: Between the 21A and 21B Circulating Water Pumps
+2)	Panel 947-2B: Between the 22A and 22B Circulating Water Pumps
+3)	Panels 947-2C and 2D: Between the 23A and 23B Circulating Water Pumps
+ELO 7
+9.	Bearing Lube Pump Strainer Control - Panels 946-2A and 946-2B
+a.	Each panel contains:
+1)	The Bearing Lube Pump Strainers are also interlocked with their respective pumps, and whenever the pumps starts the strainers start and run continuously.
+2)	Thermal overload RESET push-button for the strainer backwash motor
+3)	The associated Bearing Lube Pump Strainer's PULL MANUAL/PUSH AUTO selector switch
+a)	Each PUSH/PULL selector switch has integral a red indicating light which illuminates when the strainer is being backwashed.
+b.	Locations
+1)	Panel 646-2A: Between the 21B and 22A Circulating Water Pumps
+2)	Panel 646-2B: Between the 22B and 23A Circulating Water Pumps
+10.	Circulating Water Discharge Vacuum Breaker Control - Panels 672-2G through 672-2M (no I)
+a.	Contain the pressure differential permissive switches, air solenoid valves, and air regulators associated with the operation of the Circulating Water Discharge Line Vacuum Breakers
+b.	No local indication
+c.	Location: Turbine Building, elevation 120', aligned along the West (discharge) ends of the three condenser sections; two panels per condenser section
+ELO 7
+11.	Circulating Water System Intake and Discharge Thermal Monitoring - Panel 922
+a.	Provides selectable monitoring and group recording capability for the following Circulating Water System points:
+1)	21A Circulating Water Traveling Screen Intake temperature
+2)	21 Main Condenser Common Discharge temperature
+3)	22 Main Condenser Common Discharge temperature
+4)	23 Main Condenser Common Discharge temperature
+5)	11A Circulating Water Traveling Screen Intake temperature
+b.	Location: Circulating Water Sample and Thermal Monitoring Shed, elevation 100', between the Circulating Water System Intake Structure, and the Service Water Intake and Pump House
+12.	Circulating Water Intake Structure Heating and Ventilation - Panels 741-2A, -2B, and -2C
+a.	Located locally in the Intake Structure, Fish Counting Room, and Trash Removal Room, respectively
+b.	Panel 741-2A contains the STOP/AUTO/START handswitches for the three Intake Structure building Heating Fans
+c.	Panels 741-2B and -2C contain handswitches which operate the Fish Counting Room and Trash Removal Room inlet and exhaust fans
+ELO 7
+13.	Circulating Water Intake Structure Heating - Panel 788
+a.	Contains the Hot Water Circulator Pump and Boiler STOP/AUTO/START handswitch
+b.	Location: At the centerline of the rear wall of the Intake Structure building, elevation 105'
+14.	Other Significant Local Indications
+a.	Traveling Screen Spray Wash Header pressure indication (4 per Traveling Screen)
+b.	Screen Wash Pump discharge pressure (4)
+c.	Bearing Lube Pump discharge pressure (2)
+d.	Circ Water Pump discharge pressures (6)
+e.	Condenser Inlet Water box pressures (6) and temperatures (6)
+f.	Condenser Inlet (6) and Outlet (6) Water box levels
+g.	Condenser Circ Water outlet temperatures (6)
+h.	Condenser Circ Water outlet pressures upstream (6) and downstream (6) of the Condenser Circ Water Outlet Valves
+B.	Local Alarms
+ELO 7  TP-23
+1.	Circulating Water Bearing Lube Water Local Annunciator - Panel 1246-2
+a.	Local annunciator panel with the following alarms:
+1)	CW PUMP 21A LUBE WATER FLOW LOW
+2)	CW PUMP 21B LUBE WATER FLOW LOW
+3)	CW PUMP 22A LUBE WATER FLOW LOW
+4)	CW PUMP 22B LUBE WATER FLOW LOW
+5)	CW PUMP 23A LUBE WATER FLOW LOW
+6)	CW PUMP 23B LUBE WATER FLOW LOW
+7)	CW BRG LUBE PUMP NO. 1 TRIP
+8)	CW BRG LUBE PUMP NO. 2 TRIP
+b.	Inputs into a common Overhead Alarm in the Control Room
+c.	Location: Circulating Water Intake Structure, elevation 100', along the rear wall, just left of Panel 360
+ELO 8
+TPs 24 & 25
+C.	Control Room
+1.	Circulating Water System Section - CC3
+2.	Circulating Water Pump Ammeters; 0-600 amp range
+3.	Circulator (21A/B, 22A/B, 23A/B)
+a.	READY TO START (OI) (R) (21A/B, 22A/B, 23A/B)
+1)	Associated AR 11/111 valve opens
+2)	Vacuum breakers close (CW20/120, CW 21/121, CW 25/125)
+b.	START
+1)	Circulator breaker closes, initiates three-minute timer to establish open permissive for outlet valve (CW26/126)
+2)	When Circulator discharge pressure is > 14 psig (PD2969/2970/2971/2972/2973/2974) outlet valve opens and initiates three-minute timer to establish close permissive for bypass valve (CW9/109)
+3)	Condenser bypass valve (CW9/109) closes when Circulator discharge pressure is < 9 psig (PD2969/2970/2971/2972/2973/2974)
+c.	STOP (OIA) (G) (21A/B, 22A/B, 23A/B)
+1)	Bypass valve opens (CW9/109)
+2)	Outlet valve closes (CW26/126)
+3)	Associated AR 11/111 valve closes
+4)	Circulator breaker opens
+5)	Discharge Line Vacuum Breaker automatically opens (CW-15/115) when:
+a)	Circulator is stopped and
+b)	Circulator discharge pressure decreases to less than 1/3 atmosphere ( <10" Hg))
+c)	Vacuum breaker recloses when the pressure increases to > atmospheric pressure ( >0" Hg)
+d.	EMERGENCY TRIP (OI) (R)
+1)	Circulator breaker opens
+2)	Bypass valve opens (CW9/109)
+3)	Outlet valve closes (CW26/126)
+4)	Vacuum breakers open (CW20/120, CW 21/121, CW 25/125)
+5)	Vacuum breaker CW15/115 only opens at < 1/3 atmosphere in discharge
+6)	Prime Tank Valve closes (AR16/116)
+7)	Air Removal Valve (AR-11/111) closes
+8)	Circulator is locked-out from starting again until the EMERGENCY STOP signal is reset
+a)	The EMERGENCY STOP is reset by:
+•	Depressing the normal STOP push-button to reset the starting circuit
+•	Depressing the Start push-button to reset the Circulating Water Vacuum Breakers
+e.	AR11/111 STEAM SIDE VACUUM VLV (21/ 22/ 23)
+1)	STEAM SIDE VACUUM VLV OPEN (OI) (R)
+a)	Depressing OPEN push-button opens AR11/111
+b)	OPEN indication when valve is fully open
+c)	When the Circulator breaker is closed AR11/111 receives open signal
+2)	STEAM SIDE VACUUM VLV CLOSE (OI) (G)
+a)	Closes valve when both of the following conditions are satisfied:
+•	Circulator is not running
+•	Close push-button is depressed
+b)	CLOSE indication when valve is fully closed
+c)	When Circulator breaker is open AR11/111 is closed.
+f.	CIRCULATING WATER VACUUM BREAKER (CW15/115, CW20/120, CW 21/121, CW 25/125)
+1)	VACUUM BKR OPEN (I) (R)
+a)	Indication only
+b)	OPEN indication with any one Vacuum Breaker open
+2)	VACUUM BKR CLOSE (I) (G)
+a)	Indication only
+b)	CLOSE indication when all Vacuum Breakers are closed
+g.	AR16/116 PRIME TK VLV (21/ 22/ 23)
+1)	PRIME TK VLV OPEN (I) (R)
+a)	Indication only
+b)	OPEN indication when valve is fully open
+c)	Valve opens when Circulator starts
+2)	PRIME TK VLV CLOSE (I) (G)
+a)	Indication only
+b)	CLOSE indication when valve is fully closed
+c)	Valve closes when Circulator breaker opens
+h.	CIRCULATOR BYPASS VALVE (CW9/109)
+1)	BYPASS OPEN (OI) (R)
+a)	The following conditions  must be satisfied for the Circulator Bypass Valve (CW9/109)to open when depressing the BYPASS OPEN push-button:
+•	Circulator Bypass Valve NOT fully open
+•	Circulator Bypass Valve Torque switch not open on mechanical overload OR Circulator Bypass Valve fully closed
+•	One of the following signals is present:
+(a)	Circulator START push-button depressed and the Circulator not running
+(b)	BYPASS OPEN push-button depressed momentarily
+(c)	Circulator STOP push-button depressed and the Circulator running
+(d)	Circulator emergency stopping relay not energized
+(e)	Motor overload signal not present
+(f)	Bypass Close signal not present
+2)	BYPASS CLOSE (OI) (G)
+a)	The following conditions must be satisfied for the Circulator Bypass Valve (CW9/109) to close when depressing the BYPASS CLOSE push-button:
+•	Open signal not present
+•	Motor overload signal to Circulator Bypass Valve signal not present
+•	One of the following signals present:
+(a)	BYPASS CLOSE push-button depressed
+(b)	After starting the Circulator, by depressing the Circulator Start Button, CW26/126 the Condenser Outlet Valve fully opens (after 3 minutes) with discharge pressure > 14 psig.  Three minutes after CW26/126 opens and discharge pressure is < 9 psig CW9/109 Circulator Bypass Valve CLOSES.
+•	Circulator Bypass Valve not fully closed
+•	Circulator Bypass Valve Torque switch not open on mechanical overload OR Circulator Bypass Valve fully open
+•	Circulator outlet Valve fully open
+i.	CONDENSER WATER BOX OUTLET VALVE (CW26/126)
+1)	OUTLET OPEN (OI) (R)
+a)	The following conditions  must be satisfied for the Circulator Outlet Valve (CW26/126) to open when depressing the OUTLET OPEN push-button:
+•	Circulator Outlet Valve Torque switch not open on mechanical overload OR Circulator Outlet Valve fully closed
+•	Circulator Outlet Valve NOT fully open
+•	OUTLET OPEN push-button depressed momentarily
+•	The following signals are NOT present:
+(a)	Circulator start push-button depressed with Circulator running for 3 minutes with discharge pressure > 14 psig
+(b)	OUTLET CLOSE push-button depressed
+(c)	Motor overload signal to Circulator Outlet Valve
+(d)	Close signal to Circulator Outlet Valve
+2)	OUTLET CLOSE (OI) (G)
+a)	The following conditions  must be satisfied for the Circulator Outlet Valve (CW26/126) to close when depressing the OUTLET CLOSE push-button:
+•	Open signal not present
+•	Motor overload signal to Circulator Outlet Valve signal not present
+•	Circulating bypass valve fully open
+•	One of the following signals present:
+(a)	Circulator emergency stopping relay open
+(b)	Circulator running and the Circulator STOP push-button depressed
+(c)	OUTLET CLOSE push-button depressed
+(d)	Circulator START push-button depressed and the Circulator not running
+•	Circulator Outlet Valve Torque switch not open on mechanical overload OR Circulator Outlet Valve fully open
+•	Circulator Outlet Valve not fully closed
+j.	SCREENWELL
+1)	21-23 A&B SELECT DIFF PRESS FT WTR
+a)	0-15 ft. of water range
+b)	Selected from Screenwell P Indicator Selector Switch
+TP-26
+2)	Screenwell P Indicator Selector Switch
+a)	located above the indicator
+b)	select any screen well or off
+S2.OP-AR.ZZ-0013(Q) CONTROL CONSOLE 2CC3
+ELO 17
+4.	Bezel Alarms Circulating Water System Section - CC3
+a.	Affected 2CW 4KV Bus Infeed or Bus-Tie breaker
+b.	Delayed for 10 seconds to allow recharging after breaker closure
+c.	Causes:
+1)	Closing Springs not fully charged
+2)	Closing Springs not latched in charged position
+d.	Bezels:
+1)	23CW1AD from Stn Pwr
+2)	2CW2BD Bus Tie
+3)	24CW9AD from Stn Pwr
+e.	No automatic actions
+f.	The alarm indicates that an open breaker may not close when required
+g.	NEO sent to check Charged/Discharged indicator
+TP-27
+S2.OP-AR.ZZ-00010(Q), OVERHEAD ANNUNCIATORS WINDOW K
+5.	Control Room Overhead Annunciators - Window K
+a.	Window K-1:  21-23A CW SCRNWSH TRBL,
+1)	Devices: 2LA1296, 2LA1404, 2LA2770
+2)	Setpoint: > 12" H2O dP
+3)	Possible Causes:
+a)	Traveling Screen differential pressure(dp) high
+b)	Traveling Screen motor overload
+c)	Loss of power
+4)	Automatic actions: None
+5)	The high dp alarm is confirmed from control console indication, and an operator is sent to correct the condition. 
+a)	If two or more Circulators are stopped, then go to S2.OP-AB.CW-0001(Q), Circulating Water System Malfunction
+b.	Window K-9: 21-23B CW SCRNWSH TRBL
+1)	Possible Causes - same as Window K-1 except for 23B Traveling Screen.  A VFD fault on 23B Traveling Screen will also initiate this alarm and stop 23B Traveling Screen.
+a)	For VFD faults the screen may be run in BYPASS at the discretion of the CRS.
+c.	Window K-25: CW SCRNWSH PRESS LO
+1)	Device:  2DP3122-2
+2)	Setpoint:   <90 psig
+3)	Cause:  Screenwash Pump header pressure <90 psig
+4)	Automatic action:  If selected, the standby Screenwash Pump will automatically start
+5)	An operator is sent to ensure proper strainer operation and to investigate for leaks
+6)	Additional pumps are started if required
+d.	Window K-33: CW BRG LUBE PUMP 2 OR 4 TRBL
+1)	Devices:  Local Panel 1246-2
+2)	Setpoint:  < 20 GPM  
+3)	Cause: 
+a)	Any Circulator Bearing Lube Flow < 20 GPM
+b)	NO. 2 or 4 Circulator Bearing Lube Pump trip
+4)	Automatic Actions:  The standby Circulator Bearing Lube Pump will auto start at < 20 psig
+5)	An operator is sent to local Panel 1246-2 to acknowledge the alarm and ensure proper operation of the Bearing Lube Pumps
+6)	If necessary, an additional Bearing Lube Pump can be started, or the emergency backup supply from the Screenwash header can be valved in
+7)	Monitor Circulator Bearing temperatures and remove affected Circulators if excessive temperatures exist.
+e.	Window K-34:  4KV CW BUS UNDRVOLT 
+1)	Devices:  27BX23, 27BX24
+2)	Setpoint:  <70% of nominal voltage for  0.3 seconds (63B23/TR / 63B24/TR)
+3)	Cause:  Low voltage on either 2CW 4KV Bus Section 23 OR Bus Section 24
+4)	Automatic Actions:  
+a)	2CW Bus Section 23 UV:
+•	Trips 21-23A Circulating Water Pump breakers.
+•	Trips 2CW Bus Section 23 infeed breaker (23CW1AD).
+•	By design there is NO automatic transfer of 2CW Bus Section 23 to 2CW Bus Section 24.
+b)	2CW Bus Section 24 UV:
+•	Trips 21-23B Circulating Water Pump breakers.
+•	Trips 2 CW Bus Section 24 infeed breaker (24CW9AD).
+•	Automatically transfers 2CW Bus Section 24 to 2CW Bus Section 23 (62B24A/TR set @ 15 seconds).
+5)	Note that this OHA response describes the automatic and operator actions possible due to DCP 80067687 (Unit 1 – 80067687).  
+a)	The design change allows the two 4160/480 volt Auxiliary transformers that are normally connected to CW bus 24 to transfer to bus 23 in the event the infeed breaker for CW bus 24 trips.  Availability of power to all associated support equipment powered from these two auxiliary load transformers allows the continued operation of all of the operating Alpha CW pumps.
+b)	The design change does not allow any of the CW pumps on either bus section to be transferred automatically in either direction in the event the corresponding infeed breaker trips.  
+c)	However, this design change does allow manual re-start of Bravo CW pumps from CW Bus Section 23 after the slow/dead bus transfer if CW Bus Section 24 fails and Alpha CW pumps from CW Bus Section 24 after manual transfer IAW procedure S1(2).OP-SO.4KV-0009 from CW Bus Section 23 to24 if CW Bus Section 23 fails. 
+d)	Again, note that this automatic slow/dead bus transfer applies only for transfer from bus 24 (where the auxiliaries are fed) to 23 and does not apply for bus transfer from bus 23 to 24.  Transferring CW Bus Section 23 to CW Bus Section 24 is accomplished by manual transfer in accordance with Operations Procedure S1(2).OP-SO.4KV-0009. 
+V.	SYSTEM INTERRELATIONSHIPS
+ELO 15
+A.	Support Systems
+1.	None
+B.	Interconnecting Systems
+1.	The Condenser Air Removal System provides a dedicated vacuum pump to prime the condenser water boxes
+2.	The Service Water and Non-Radioactive Waste Systems discharge into the Circulating Water System
+ELO 12   DCP 1EA-1121
+VI.	UNIT DIFFERENCES
+A.	Presently, each Unit 1 Intake Structure Heating Fan is interlocked with the pair of Circulating Water Pumps it serves
+1.	A Unit 1 Heating Fan will start, if in AUTO, whenever either of the pair of Circulating Water Pumps it serves starts
+a.	The Unit 2 Heating Fans are not interlocked with the Circulating Water Pumps, and are manual start and stop only; the AUTO position on their handswitches has no function
+B.	Design change package 80084307 has added a front (river side) debris spray for 13B Circulating Water Traveling Screen.  This new front spray arrangement includes:
+1.	A separate front (river side) fiberglass trough for 13B traveling screen (routed to the existing debris trough), 
+2.	A stationary flap seal to the front side of the 13B screen, 
+3.	A front spray wash line to the screen, 
+4.	Two new isolation valves to isolate either the manual aux spray or the front spray. 
+This front spray system is of the same design as the rear primary and auxiliary debris sprays.  This front spray system is fed from the existing screen wash pumps and headers and operates at the same flow rate and pressure as the existing rear debris headers, approximately 240 gpm at 90 psi.  Valve configuration will allow either the auxiliary rear spray or the front spray to be in service at one time.  However, operationally, only one of these two sprays (aux rear spray or front spray) will be in service at a time. 
+C.	Design change package 80088436 has replaced 13A Circulating Water Traveling Screen with a unique, Geiger MultiDisc Screen.  This design change and the 13B front spray modification described above are both aimed at reliability improvements for the Circulating Water Traveling Screens.  These modifications are being made for testing and data collection to determine possible future circulating water intake changes.
+The Geiger Screen’s design is being used to help eliminate excessive condenser fouling from the carryover of debris that occurs with the original screen design.  With the original design (remaining 11 screens), it is common for river grass to fall between the traveling screen and the rear flap seals and into the CW intake bay.  The grass is then pumped through the circulators and into the condensers where it plugs up the tubes.  The Geiger MultiDisc Screen (MDS) has all of its screens on one side of the machine, thus eliminating the carry-over of debris to the circulator intake side of the bay.  The screen’s control system allows for a variable screen speed profile to meet changes in differential pressure across the screens from changeable river grass and debris loading.  
+TP-7A&B
+Review 13A Traveling Screen Controls Attachment in S1.OP-SO.CW-0001(Z), Circulating Water System Operation.
+1.	The MultiDisc Screen has a thru-flow flow pattern.  The raw water flows directly through the mesh panels without change of the flow direction. The total submerged screening area, that is, the descending and ascending mesh panels as well as mesh panels in the lower guiding section, is used to screen raw water. The screenings are retained at the front of the mesh panels. As the screen band travels through the water body, the collected screenings will be carried upwards to the discharge position above deck level, where they will be washed off by a spray water device into the collecting trough. The spraying of mesh panels is with a suitable pressure to achieve a high intensity of cleaning of mesh panels.  Due to the design of circulating sickle shaped panels across the channel no carry over of debris to the clean water side can occur.
+2.	The main components of the MultiDisc Screen are the sickle shaped mesh panels, one central chain guideway integrated in the supporting structure, one revolving chain, one lower guiding section, spray water device, a screenings collecting trough, drive unit, overload protection and a protective splashing guard. The head section of the screen frame incorporates, a solid main shaft, the sprocket wheel and the spray pipe as well as the splash guard. The base frame supports the rotating main shaft with flanged sprocket wheel.  The spray pipe is arranged in such a way as to produce the maximum spraying efficiency.
+3.	The mesh panels are secured on one endless revolving side bar chain to form the MultiDisc screen. The chain strand run on a large sprocket wheel and is directed through the lateral chain guideways. The mesh panels themselves are sealed by overlapping each other on the upstream side. Debris retained in the screen mesh and on the debris carriers is sprayed off as the mesh panels reach the position of the spray pipe and is collected in the debris collecting trough.
+4.	The MultiDisc Screen is being driven by a frequency converter controlled geared motor in combination with a bevel gear as speed reducer. The drive unit is directly mounted on the main shaft thus avoiding an additional chain-drive assembly. The entire drive unit is set up outside of the splash guard and therefore free from direct exposure to liquid medium.  The overload protection is effected electronically by the frequency converter. In the event of an overload occurrence an electronic switch interrupts the electrical circuit and stops the MultiDisc Screen and a failure signal will be triggered.
+VII.	TECHNICAL SPECIFICATIONS
+ELO 10 & 11
+A.	Appendix B to the Technical Specifications is the Environmental Protection Plan (Non-Radiological)
+B.	Environmental aquatic monitoring is required by Appendix B in accordance with the Endangered Species Act.
+C.	To meet the requirements of Appendix B, PSE&G has made the following commitments:
+1.	The Salem Station Circulating Water Intake Trash Bars shall be inspected (for impinged marine life or anything else out of the ordinary) once every 2 hours from June 1 through October 15.  These inspections should be documented.
+2.	The Salem Station Circulating Water Trash Bars shall be cleaned once per day from June 1 through October 15.  These cleaning should be documented.
+3.	If a lethal incidental take, of an endangered or threatened species, occurs between June 1 through October 15, that is directly attributable to the plant intake structure, monitoring of the Salem CWS intake structure must be conducted hourly (rather than every 2 hours).
+a.	Two hour monitoring may be reestablished from October 1 through October 15; however, if another lethal take occurs, monitoring must be again conducted hourly
+4.	Dip nets and other equipment shall be used whenever possible to remove smaller sea turtles from the Trash Racks to reduce trauma
+5.	Supplemental lighting should be used during night inspections to aid the identification of sea turtles impinged on the Trash Racks
+6.	Sea turtle resuscitation procedures shall be implemented for comatose turtles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIII.	OPERATING PRACTICE/PLANT AND INDUSTRY EVENTS
+ELO 13
+A.	Operational Summary
+Instructor Activity – While discussing the following procedures, discuss the applicable Human Performance Error Reduction Strategies/Techniques that would be used when performing that task/procedure.  The Human Performance Error Reduction Strategies/Techniques and associated Human Error Traps are listed in Attachment 1. 
+Instructor Note:  Applicable procedures should be covered for purpose and major precaution & limitations.  It is not the intent to cover action steps of the procedure.  This should be covered by the student in a self-study format.
+For Continuing Training, include a discussion on Operator Proficiency while covering these procedures
+ 
+ 
+1.	SC.OP-SO.CW-0001(Z), CIRCULATING WATER TRASH RACK RAKE OPERATION
+a.	Provides the instructions necessary to:
+1)	Clean the Trash Racks with the Trash Rack Rakes and
+2)	Instructions necessary for documentation requirements IAW Environmental Technical Specification 4.2.1, Aquatic Monitoring
+b.	Pertinent Precautions and Limitations
+1)	Trash Rack cleaning is required to be logged by the Circulating Water Operator IAW SC.OP-DL.ZZ-0008(Q), Circulating Water/Service Water Log, to satisfy Environmental Technical Specification 4.2.1 for “Aquatic Monitoring” during the period from May 1 through November 15.
+2)	EVALUATE current operating conditions prior to trash rake operation.  The following are examples of things to be considered:
+a)	Simultaneous operation of trash rakes on adjacent circulators is to be avoided
+b)	Operation of the trash rake with adjacent circulator out of service
+c)	Tide levels or change of tide may require additional actions or a pause until conditions are improved
+d)	River conditions and/or actions in progress to mitigate loss or potential loss of equipment
+3)	The SM/CRS shall be notified immediately should any species of marine life identified on local placard be observed within the intake bay OR is caught.
+2.	SC.OP-SO.CW-0002(Z), CIRCULATING WATER INTAKE STRUCTURE VENTILATION SYSTEM AND BOILER OPERATION
+a.	Provides the instructions necessary for:
+1)	Startup and operation of the Circulating Water Heating Boiler
+2)	Shutdown of the Circulating Water Heating Boiler
+3)	Draining System
+4)	Filling and Venting System
+5)	Sampling the system including
+a)	Obtaining system sample
+b)	Adding antifreeze to System 
+6)	Ventilation System Operation
+b.	Pertinent Precautions and Limitations
+1)	Circulating Pump is interlocked with the burner so that the burner cannot operate unless the Circulating Pump is running.
+2)	If draining or filling of the system will be performed, then:
+a)	All spills and any excess coolant should be disposed of IAW NC.NA-AP.ZZ-0038(Q), Chemical Control Program
+b)	DO NOT drain or flush Propylene Glycol antifreeze to any drain system. 
+c)	When venting the system, all liquid should be vented into a plastic bucket and disposed of in 55 gallon drums, directly into 55 gallon drums, or into the Glycol Storage Tank
+3.	S2.OP-SO.CW-0001(Z), CIRCULATING WATER PUMP OPERATION
+a.	Provides the instructions necessary to:
+1)	Start, Stop, and Emergency Trip the Circulating Water Pumps
+2)	Circulating Water Bearing Lube Emergency Alignment and restoration to Normal Alignment
+b.	The following conditions should be established prior to starting a Circulating Water Pump:
+1)	Screen Wash Pumps and Traveling Screens are available
+2)	Intake Structure stop logs are removed
+3)	All condenser inspection doors and water box openings are closed with closure bolts tightened
+4)	Water boxes are NOT primed
+5)	Bearing Lube System in operation and supplying flow to pump motors
+Refer to Task 0755280504C, "Throttle/Open Condenser Hotwell Valves" in LP CNFW00, Condensate and Feedwater System
+c.	The normal or emergency stop of a Circulating Water Pump with the unit at power can cause significant level changes in the pump's associated condenser hotwell
+1)	The operator should anticipate that throttling the affected condenser section's hotwell isolation valve(s) (CN-79/83) may be required to control hotwell level within the desired range after a Circulating Water Pump is stopped
+4.	SC.OP-PM.CW-0001(Z), CLEANING CONDENSER WATER BOXES
+a.	The purpose of this procedure is to provide the instructions necessary for cleaning debris from the Inlet Water Box Tube Sheet.
+b.	Pertinent Precautions and Limitations
+1)	The atmosphere inside the inlet water box is required to be tested for air quality and found to be safe for work with a Confined Space Work Permit issued prior to personnel entering a water box
+2)	Do not enter a water box until a Confined Space Work Permit has been issued.
+3)	Do not step on or use anodes and supports for climbing
+a)	If climbing is required, then two operators are required in the water box and the operator who climbs must wear a safety harness
+4)	Tools and equipment used in the water box are accounted for on entry and exit.
+5)	One operator is to serve as a safety man, stationed outside the Water Box
+6)	Heat stress restrictions may apply to work performed inside the water boxes
+5.	S2.OP-AR.CW-0001(Z), CIRC. WTR. PUMP BRG. LUBE WTR. LOCAL ANNUNCIATOR PANEL 1246-2
+a.	Provides the actions to respond to local panel 1246-2 alarms
+b.	CW PUMP 21A/B, 22A/B. 23A/B LUBE WATER FLOW LOW alarms (6)
+1)	Setpoint: < 20 gpm Bearing Lube flow to any individual Circulating Water Pump
+2)	Operator notifies NCO of the cause of the alarm
+3)	If only one Circulating Water Pump is affected, then:
+a)	Notify the NCO to monitor that pump's motor outboard bearing temperature
+b)	Verify the correct Bearing Lube lineup to that pump
+c)	If no flow is observed from that pump's upper bearing outlet line or from the pump's gland seal, then notify the NCO that the pump should be stopped
+4)	If low flows are present for more than one Circulating Water Pump, then:
+a)	Notify the NCO to begin trending all Circulating Water Pump Motor Outboard Bearing temperatures
+b)	If adequate Bearing Lube flow (>20 gpm) and pressure (>14 psig) cannot be maintained to the running Circulating Water Pumps, then align Emergency Bearing Lube Water IAW S2.OP-SO.CW-0001(Z), Circulating Water Pump Operation
+c.	CW BRG LUBE PUMP NO. 2 (NO. 4) TRIP alarms (2)
+1)	Causes: Thermal overload trip or loss of power to pump or its control circuit
+2)	Start the other Bearing Lube Pump if available
+3)	If the cause is a tripped pump breaker, refer to the Protective Circuit/Breaker Reset And Reclosure Policy (SC.OP-DD.ZZ-0006(Z))
+6.	SC.OP-PT.ZZ-0002(Z), STATION PREPARATIONS FOR SEASONAL CONDITIONS
+a.	Provides actions to ensure that Operations Department equipment is ready for extreme temperature conditions.
+b.	This procedure describes preventive measures that can be taken seasonally to protect plant systems.
+Cold weather can present severe problems to continued plant operations.  So preventive measures must be taken before and during cold weather months to protect plant systems from the potential hazards of cold weather (such as water freezing in the piping systems.)
+c.	Verifies proper operation of various circulating water structure and system components as part of summer, winter, and grassing season preparations. 
+7.	S2.OP-DL-ZZ-0001(Q) CONTROL ROOM LOGS
+a.	Provides a record of thermal discharge temperatures to ensure compliance with New Jersey Pollutant Discharge Elimination System (NJPDES) permit (See procedure for additional details)
+1)	NJPDES 24 Hour Discharge Differential Temperature Log
+a)	Limitations of the NJPDES permit are as follows:
+•	Thermal discharge temperature shall not exceed 43.3 0C (110 0F) during the months of October through May inclusive, and shall not exceed 46.6 0C (115 0F) during the months of June through September.
+•	Temperature difference between the intake (influent) and the discharge (effluent) shall not exceed 15.3 0C (27.5 0F)
+b)	Each Unit shall maintain a temperature log when discharge flow is established and each temperature log shall be computed every hour to ensure that the 24 hour average deferential temperature does not exceed 27.5 0F
+c)	P250 computer is the preferred method of obtaining inlet and outlet temperatures.
+•	Readings shall be taken every hour
+ELO 16
+d)	Actions when the circulators and main turbine or steam dump are in service (See procedure for details)
+•	From 1900 to 0700 hours (when a circulator is taken out of service for tube sheet cleaning) the delta T may be allowed to go as high as 28.5 oF without dropping load.
+•	From 0700 to 1400 hours delta T shall be maintained below 27.5 oF
+•	From 1400 to 1900 hours load may be raised or lowered to achieve a delta T that if maintained at that value, the 24 hour average for that day will be less than or equal to 27.5 oF. (Determined by CRS based on the previous 19 hours worth of data.
+8.	S2.OP-DL.ZZ-0003(Q), CONTROL ROOM READINGS - MODE 1-4
+a.	Circulating Water Inlet temperature is recorded every twelve hours.  The FSAR maximum temperature limit for Service Water is 90oF.
+b.	The voltage on the Circulating Water 4KV buses are recorded every twelve hours to verify it is within the limits of 4.22KV (min) and 4.36KV (max)
+9.	SC.OP-DL-ZZ-0008(Z), CIRCULATING WATER/SERVICE WATER LOG
+a.	Monitors the operational status of equipment contained in and adjacent to the Salem Station Circulating Water and Service Water structures.
+b.	Minimizes the environmental impact on certain endangered / threatened species to satisfy Technical Specifications, Appendix B, Environmental Protection Plan, Section 4.2.1, Aquatic Monitoring
+c.	General discussion of the procedure follows:
+1)	The log is performed once per 12 hours
+a)	Out of specification or unsatisfactory data should be reported to the SM/CRS at the earliest opportunity and immediately in the case of data for Technical Specification requirements
+2)	Circulating Water Trash Rack Inspections and Cleaning IAW the following schedule
+           
+
+Circulating Water Trash Rack Inspection and Cleaning Schedule
+Period	Activity 	Minimum Required Action Frequency	Increased Action Frequency
+June 1st to Oct. 15th	Inspection	Every 2 hours (NOTE 1)	Once an Hour (NOTE 2)
+	Cleaning	Daily (NOTE 3)	-------
+Oct. 16th to May 31st	Inspection	Twice per shift	-------
+Note 1:  If an endangered or threatened species is recovered deceased or dies after being recovered from the Circulating Water (CW) Intake, and the death is directly attributable to Salem’s CW Intake Structure (as determined by Licensing and Regulation), increase monitoring IAW the Action Frequency.
+Note 2:  From October 1st through October 15th, two hour monitoring may be re-established unless another death occurs.  If another death occurs, then monitor at the Action Frequency through October 15th
+Note 3:  Cleaning should be performed on day shift regardless of the amount of debris present
+
+TP-29 and TP-30
+a)	Inspect for the presence of certain species of Sea Turtles (TP-29) and Sturgeons (TP-30) which have become impinged against the trash racks.
+b)	If an endangered / threatened species (i.e., sea turtles or sturgeons) is observed on the trash racks, then:
+•	Notify the CRS to implement ECG notifications and then initiate the “recovery and captivity” section
+c)	Inspect trash racks for buildup of debris and perform the following:
+•	If the waterfall is greater than 6 inches, then notify the CRS
+•	If the water fall is greater than 12 inches, then the trash racks should be cleaned immediately
+10.       SC.OP-SO.CW-0003(Z) CIRCULATING WATER  SUPPLEMENTAL SCREEN WASH TROUGH FLUSH AND TROUGH GATE SYSTEM OPERATION
+                     a.       Provide  instructions necessary to:   
+                               1)      Operate Supplemental Screen Wash Pumps
+                               2)      Operate Trough gate     
+ELO 14
+Case Studies are intended for use during NLO Requalification. 
+B.	Plant and Industry Events
+Discuss the Operator fundamentals while covering the selected OE. Concentrate on prevention of events. Consider one or more of the following fundamentals: 
+•Monitoring plant indications and conditions closely
+•Controlling plant evolutions precisely
+•Operating the plant with a conservative bias
+•Working effectively as a team
+•Having a solid understanding of plant design, engineering principles, and sciences
+1.	SOER 82-15, Freezing of Safety-Related Equipment
+a.	Summary
+1)	Forty-nine (49) cases of frozen instrument lines have been documented
+2)	Although this SOER warns of the consequences of freezing safety-related equipment, nonsafety-related Circulating Water System components and instrument lines are also susceptible to freezing
+3)	The effects of cold weather can cause false instrument readings, inoperable equipment, and deteriorated equipment operation and response
+b.	Root Cause: Cold weather conditions with no protection from freezing
+c.	Probability of occurrence at Salem: The Circulating Water Intake Structure enclosure and its Heating and Ventilation System were designed to preclude this type of event
+Solicit additional suggestions
+d.	Alternative Actions
+1)	Correct operation of Unit Heaters, Hot Water Coils, fans, and the Circulating Water Intake Boiler
+2)	Possible use of portable heaters during extreme weather conditions
+2.	LER 93-11, Reactor Trip From 85% Power - 4 Circulating Water System Circ Pumps Tripped Due to Debris (Unit 1)
+a.	Summary
+1)	The accumulation of grass and debris at the Circulating Water Intake Structure has caused failure of equipment that has resulted in plant trips
+b.	Root Cause: A sever storm flushed grass and debris into the Intake Structure from the Delaware River marsh areas upstream of the plant
+c.	Probability of occurrence at Salem: This event has occurred at both Salem units
+Solicit additional suggestions
+d.	Alternative Actions
+1)	Monitor for the buildup of grass and debris on the Trash Racks and Traveling Screens frequently
+2)	Run the Traveling Screens at high speed with maximum spray flow during anticipated periods of debris buildup
+3)	Maintain the regular schedule for cleaning the Trash Racks to minimize buildup
+3.	SER 15-84, Low Water Level in the Intake Bay due to Ice
+a.	Summary
+1)	Severe cold weather conditions have caused blockage of intake screens by ice, and the subsequent low water level in the intake bays has caused plant shutdown, power reductions, and degraded cooling capability to essential loads
+b.	Root Cause: Cold weather conditions which caused ice to form on Trash Racks and Traveling Screens
+c.	Probability of occurrence at Salem:
+1)	Severe cold weather may cause this type of event at Salem; similar equipment, structures, and ambient conditions
+2)	LERs have been issued almost every year regarding intake ice problems
+3)	Ice can form in a very short time and can result in equipment damage before corrective actions can be implemented
+Solicit additional suggestions
+d.	Alternative Actions:
+1)	Use and familiarity with the Station Preparations for Winter Conditions procedure
+2)	Continuous operation of the Traveling Screens to prevent icing
+3)	Use of the Trash Rake to dislodge accumulated ice
+4.	SOER 85-05, Internal Flooding of Power Plant Buildings
+a.	Summary
+1)	Internal plant flooding has occurred from breaches of water systems located inside plant buildings and that are connected to large water sources
+2)	Conditions that have lead to internal flooding include the opening of Circulating Water Systems for condenser cleaning or tube repair
+b.	Root Cause(s): Personnel error, pipe rupture, pipe joint, valve and pump failures, valve mispositioning
+c.	Probability of occurrence at Salem: Similar design and equipment to plants where these events has occurred
+Solicit additional suggestions
+d.	Alternative Actions:
+1)	Prompt response to Turbine Building sump alarms
+2)	Design changes to prevent or control the spread of flooding to other plant areas (e.g., wall sealing, additional drains and sumps, relocation of equipment to higher elevations or pedestals, etc.)
+For use during NLO Requalification
+5.	Instructor facilitated case study
+a.	Hand out Case Study materials.
+b.	Divide trainees into groups.
+c.	Have each group read the event and as a group, prepare a synopsis of the event including  Root Cause, Lessons Learned, Corrective Actions taken to prevent or mitigate this type of event. 
+d.	Have one group present the event and lessons learned from the event to the remainder of the class.
+6.	Operations Crew Learning for Trash-Rack Waterfall Calculation
+While performing trash-rack inspections, the CW NEO reported a significant waterfall with an extremely low bay level.  A review of the CW logs showed that the trash-rack waterfall readings were being recorded as unsat with a note stating, “> 1ft waterfall”.  The waterfall was a direct result of the unavailability of the trash-rakes which prevented Site Services from raking for the previous 4 days and was only evident during low tide levels.
+
+Trash-Rack Waterfall can be calculated.  The Radar consolidator displays two indications (both in inches); travelling screen Differential and bay level.  For instance, the indications showed screen differential at 5 inches with bay level at 397 inches.  Referencing the TP below shows that the bottom of the bay is at an elevation of 50’.  Adding this to the bay level indication of 397 inches equates to approximately 83’.  Adding the 5 inch differential across the screen puts the level of the water in-between the screen and the trash-rack at 83’5”.  Subtracting this from the tide level of 88’ revealed that the calculated trash-rack waterfall was actually 4’7”.  
+	
+ 
+IX.	SUMMARY
+A.	Using the appropriate P&IDs and handout material, review the Circulating Water System
+B.	Review the Enabling Learning Objectives.
+C.	Review Attachment 1 – Circ Water system
+
+
+ 
+Attachment 1
+Human Performance Error Reduction Strategies/Techniques
+
+Human Error Prevention Techniques	Associated Human Error Trap
+Use Self-Check, and STAR	Time Pressure//Distractive Environment//High Workload//First-Time Evolution//First Working Day After Days Off//Fatigue//Low Alertness Level//Over-Confidence Inducers//Work Stress
+Use Peer Checks for Main Control Room manipulations	First-Time Evolution//Fatigue// Low Alertness Level// Work Stress
+Use First Checks for in-field manipulations	First-Time Evolution//Fatigue// Low Alertness Level// Work Stress
+Use Independent Verification (IV) and Concurrent Verification (CV) as required by station procedure or briefings	Distractive Environment// First-Time Evolution// First Working Day After Days Off
+Use Three-way Communications to provide clear, concise direction or to exchange critical information.  Use phonetic alphabet	Distractive Environment//Imprecise Communications
+Use Flagging or Robust Barriers to enhance component identification techniques	Distractive Environment//High Workload//First-Time Evolution//First Working Day After Days Off//Fatigue//Low Alertness Level//Over-Confidence Inducers
+Use OOPS: If Outside Procedures, Parameters, or Process, then STOP and contact your supervisor.	Low Alertness Level// Over-Confidence Inducers// Work Stress
+

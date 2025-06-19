@@ -19,6 +19,16 @@ NUM_ROUNDS     = 3
 SAMPLE_SIZE    = 1
 TOP_K          = 50
 
+# ──────────────── OPEN ISSUE FILTER & TOP_K BY TYPE ──────────────── #
+# mapping of question types to number of context items
+QUESTION_TYPE_TOPK: Dict[str, int] = {
+    "trend": TOP_K,
+    "drilldown": TOP_K,
+    "recent": TOP_K,
+    "compare": TOP_K,
+    "similar": TOP_K,
+}
+
 # ──────────────── LOAD CW TRAINING MATERIAL ──────────────── #
 CW_TRAINING_PATH = "data/raw_data/cw_training.txt"
 with open(CW_TRAINING_PATH, "r", encoding="utf-8") as f:
@@ -63,37 +73,11 @@ A: {seed2_answer}
 # ─── Context Notifications ─────────────────────────────
 {question_context}
 
-# ─── Original Question ───────────────────────────────────
+# ─── Question ───────────────────────────────────────────
 {question}
 
 # ─── Your Task ─────────────────────────────────────────
-Based on the context notifications and the original question above, generate a new single-sentence question that is insightful and grounded, and provide a concise answer.  
-Return a JSON object with keys "question" and "answer".  
-You MUST include a reference section with the context notifications that led to the answer in the format: Not. Notification – ShortText (CreatedOn).
-We will use these Q&A pairs to fine-tune a later model, so please return strictly valid JSON.
-"""
-
-# ──────────────── COMBINED QA PROMPT TEMPLATE ──────────────── #
-COMBINED_QA_PROMPT_TEMPLATE = """
-# ─── Background ─────────────────────────────────────────
-{background}
-
-# ─── Examples ───────────────────────────────────────────
-Example 1:
-Q: {seed1_question}
-A: {seed1_answer}
-
-Example 2:
-Q: {seed2_question}
-A: {seed2_answer}
-
-# ─── Component Context Notifications ────────────────────
-{component_context}
-
-# ─── Your Task ─────────────────────────────────────────
-Focusing on component "{component}", craft one single-sentence question that is both insightful and grounded based on the above notifications, then provide a concise answer.
-Return a JSON object with keys "question", "answer", and "references" where "references" is the list of notifications cited (e.g., "Not. 123 – ShortText (YYYY-MM-DD)").
-We will use these Q&A pairs to fine-tune a later model, so please return strictly valid JSON.
+Provide a concise answer to the question above.
 """
 
 # ──────────────── UTILITIES ──────────────── #
@@ -169,34 +153,38 @@ with open(SEEDS_PATH, "r", encoding="utf-8") as f:
     SEEDS = json.load(f)
 
 def retrieve_relevant_semantic(df: pd.DataFrame, embeddings: np.ndarray,
-                               query: str, top_k=TOP_K) -> pd.DataFrame:
-    qemb = np.array(ollama.embeddings(model=EMBED_MODEL, prompt=query)["embedding"])
+                               question: str, top_k=TOP_K) -> pd.DataFrame:
+    # embed the question
+    qemb = np.array(ollama.embeddings(model=EMBED_MODEL, prompt=question)["embedding"])
     sims = cosine_sim_matrix(embeddings, qemb)
     idx_top = np.argsort(sims)[-top_k:][::-1]
     return df.iloc[idx_top]
 
+
+# ──────────────── CONTEXT SNIPPET UTIL ──────────────── #
 def get_context_snippet(df: pd.DataFrame) -> str:
     return "\n".join(
         f"Not. {r.Notification} – {r.ShortText} ({r.CreatedOn.date()})"
         for _, r in df.iterrows()
     )
 
+# ──────────────── FULL PIPELINE ROUND ──────────────── #
 def pipeline_round(df: pd.DataFrame, embeddings: np.ndarray) -> Dict:
-    # LLM call #1: extract component
+    # Step 1: sample one notification and extract component (LLM call #1)
     sample = df.sample(1).iloc[0]
     snippet = " | ".join(
         f"{col}: {sample[col]}" for col in ["Notification","CreatedOn","OrderNum","FLOC","ShortText","LongText"] if col in sample
     )
     primary_comp = extract_primary_component(snippet)
 
-    # retrieve context for QA
+    # Step 2: retrieve similar notifications for component context
     comp_context_df = retrieve_relevant_semantic(df, embeddings, primary_comp, top_k=TOP_K)
     component_context = get_context_snippet(comp_context_df)
 
-    # LLM call #2: generate combined Q&A
-    resp = ollama.generate(
-        model=ANSWER_MODEL,
-        prompt=COMBINED_QA_PROMPT_TEMPLATE.format(
+    # Step 3: generate question (LLM call #2)
+    question = ollama.generate(
+        model=QUESTION_MODEL,
+        prompt=QUESTION_GEN_PROMPT_TEMPLATE.format(
             background=CW_TRAINING,
             seed1_question=SEEDS[0]["question"],
             seed1_answer=SEEDS[0]["answer"],
@@ -205,26 +193,29 @@ def pipeline_round(df: pd.DataFrame, embeddings: np.ndarray) -> Dict:
             component=primary_comp,
             component_context=component_context
         )
+    )
+    question = question["response"].strip()
+
+    # Step 4: retrieve context for question and generate Q&A (LLM call #3)
+    q_context_df = retrieve_relevant_semantic(df, embeddings, question, top_k=TOP_K)
+    question_context = get_context_snippet(q_context_df)
+
+    qa_resp = ollama.generate(
+        model=ANSWER_MODEL,
+        prompt=QA_GEN_PROMPT_TEMPLATE.format(
+            background=CW_TRAINING,
+            seed1_question=SEEDS[0]["question"],
+            seed1_answer=SEEDS[0]["answer"],
+            seed2_question=SEEDS[1]["question"],
+            seed2_answer=SEEDS[1]["answer"],
+            question_context=question_context,
+            question=question
+        )
     )["response"].strip()
-
     try:
-        qa_json = json.loads(resp)
+        return json.loads(qa_resp)
     except Exception:
-        # fallback regex
-        q_match = re.search(r'"question"\s*:\s*"(.+?)"', resp)
-        a_match = re.search(r'"answer"\s*:\s*"(.+?)"', resp)
-        refs = re.findall(r'Not\. \d+ – [^\n]+', resp)
-        qa_json = {
-            "question": q_match.group(1) if q_match else None,
-            "answer": a_match.group(1) if a_match else None,
-            "references": refs
-        }
-
-    # ensure references field exists
-    if "references" not in qa_json:
-        qa_json["references"] = component_context.split("\n")
-
-    return qa_json
+        return {"question": question, "answer": qa_resp}
 
 # ────────── MAIN ────────── #
 
