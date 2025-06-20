@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import random
 import re
 import json
 import ollama
@@ -10,15 +9,15 @@ from typing import List, Dict, Tuple, Any
 
 # ──────────────── CONFIG ──────────────── #
 
-EXCEL_PATH     = "data/raw_data/salem_cw_data.xlsx"
-OUTPUT_PATH    = "data/questions_and_answers/qapairs.jsonl"
-QUESTION_MODEL = "cogito:32b" # "cogito:70b" #"mistral-small3.1:latest" #"llama2:13b" #
-ANSWER_MODEL   = "cogito:32b"# "cogito:70b" #"mistral-small3.1:latest" #"llama2:13b"
-EMBED_MODEL    = "nomic-embed-text:latest"      # for embeddings
+EXCEL_PATH       = "data/raw_data/salem_cw_data.xlsx"
+OUTPUT_PATH      = "data/questions_and_answers/qapairs.jsonl"
+QUESTION_MODEL   = "cogito:32b" # "cogito:70b" #"mistral-small3.1:latest" #"llama2:13b" #
+ANSWER_MODEL     = "cogito:32b"# "cogito:70b" #"mistral-small3.1:latest" #"llama2:13b"
+EMBED_MODEL      = "nomic-embed-text:latest"      # for embeddings
 EMBEDDINGS_CACHE_PATH = "data/embeddings.npy"
-NUM_ROUNDS     = 3
-SAMPLE_SIZE    = 5
-TOP_K          = 25
+NUM_ROUNDS       = 1000
+TOP_K_COMPONENT  = 5
+TOP_K_QA         = 25
 
 # ──────────────── LOAD CW TRAINING MATERIAL ──────────────── #
 CW_TRAINING_PATH = "data/raw_data/cw_training.txt"
@@ -67,9 +66,9 @@ A: {seed2_answer}
 {draft_question}
 
 # ─── Your Task ─────────────────────────────────────────
-Focusing on component "{component}", craft one single-sentence question that is both insightful and grounded based on the above notifications, then provide a concise answer.
+Using ONLY the notifications above (all of which mention {component}), refine the draft question if needed to be highly insightful and grounded, then provide a concise answer.
+The answer MUST be directly supported from the reference notifications. The references MUST be directly related to the component "{component}" (for example, if issue is related to 11A CWP, don't reference notifications related to 12A CWP).
 Return a JSON object with keys "question", "answer", and "references" where "references" is the list of notifications cited (e.g., "Not. Notification – ShortText (YYYY-MM-DD)").
-The answer MUST be directly supported from the reference notifications. The references MUST be directly related to the component "{component}" (i.e., if issue is related to 11A CWP, don't include notification primariy related to 12A CWP).
 We will use these Q&A pairs to fine-tune a later model, so please return strictly valid JSON.
 """
 
@@ -150,7 +149,7 @@ with open(SEEDS_PATH, "r", encoding="utf-8") as f:
     SEEDS = json.load(f)
 
 def retrieve_relevant_semantic(df: pd.DataFrame, embeddings: np.ndarray,
-                               query: str, top_k=TOP_K) -> pd.DataFrame:
+                               query: str, top_k=TOP_K_QA) -> pd.DataFrame:
     qemb = np.array(ollama.embeddings(model=EMBED_MODEL, prompt=query)["embedding"])
     sims = cosine_sim_matrix(embeddings, qemb)
     idx_top = np.argsort(sims)[-top_k:][::-1]
@@ -171,7 +170,7 @@ def pipeline_round(df: pd.DataFrame, embeddings: np.ndarray) -> Dict:
     primary_comp = extract_primary_component(snippet)
 
     # retrieve component context for draft question
-    comp_context_df = retrieve_relevant_semantic(df, embeddings, primary_comp, top_k=TOP_K)
+    comp_context_df = retrieve_relevant_semantic(df, embeddings, primary_comp, top_k=TOP_K_COMPONENT)
     component_context = get_context_snippet(comp_context_df)
 
     # LLM call #2: generate draft question
@@ -190,7 +189,7 @@ def pipeline_round(df: pd.DataFrame, embeddings: np.ndarray) -> Dict:
     draft_question = draft_resp
 
     # retrieve context for draft question
-    q_context_df = retrieve_relevant_semantic(df, embeddings, draft_question, top_k=TOP_K)
+    q_context_df = retrieve_relevant_semantic(df, embeddings, f"For {primary_comp}: {draft_question}", top_k=TOP_K_QA)
     question_context = get_context_snippet(q_context_df)
 
     # LLM call #3: generate final Q&A
